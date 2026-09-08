@@ -5,7 +5,7 @@ public class git_test : MonoBehaviour
 
     void Start()
     {
-        string test = "test1112";
+        string test = "test1";
     }
 
 
