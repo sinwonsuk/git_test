@@ -1,0 +1,174 @@
+{
+  "monster": [
+    {
+      "key": "MEDUSA",
+      "prefab": "PF_Mon_Medusa_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Medusa_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "UNDEAD",
+      "prefab": "PF_Mon_Undead_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Undead_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "SCORPION",
+      "prefab": "PF_Mon_Scorpion_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "none",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "SKELETON",
+      "prefab": "PF_Mon_Skeleton_Melee_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Skeleton_Melee_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "SKELETON_ARCHER",
+      "prefab": "PF_Mon_Skeleton_Archer_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Skeleton_Archer_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "ALTAMIR",
+      "prefab": "PF_Mon_Altamir_01",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Altamir_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "SPECTER",
+      "prefab": "PF_Mon_Specter",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Specter_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "ELIZABETH",
+      "prefab": "PF_Mon_Elizabeth_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Elizabeth_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "SPIDER",
+      "prefab": "PF_Mon_Spider_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Spider_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "CANNIBALFLOWER",
+      "prefab": "PF_Mon_CannibalFlower_001",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_CannibalFlower_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "CLAWBUG",
+      "prefab": "PF_Mon_ClawBug",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_ClawBug_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "SKELPRISONER",
+      "prefab": "PF_Mon_Skelprisoner",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Skelprisoner_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "GOLEM",
+      "prefab": "PF_Mon_Golem",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Golem_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "BUGFLY",
+      "prefab": "PF_Mon_BugFly",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Bugfly_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "ALTAMIR_02",
+      "prefab": "PF_Mon_Altamir_02",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Altamir_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "CANNIBALFLOWER_002",
+      "prefab": "PF_Mon_CannibalFlower_002",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_CannibalFlower_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "GOLEMELITE",
+      "prefab": "PF_Mon_Golem_Elite",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Golem_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    },
+    {
+      "key": "GOLEMBOSS",
+      "prefab": "PF_Mon_Golem_Boss",
+      "initial_object_count": "1",
+      "max_object_count": "1",
+      "hit_effect": "FX_p_Golem_a001",
+      "death_effect": "FX_p_Boss_Death_a001"
+    }
+  ],
+  "hp": [
+    {
+      "wave": "1",
+      "hp": "200"
+    },
+    {
+      "wave": "2",
+      "hp": "400"
+    },
+    {
+      "wave": "3",
+      "hp": "600"
+    },
+    {
+      "wave": "4",
+      "hp": "800"
+    },
+    {
+      "wave": "5",
+      "hp": "1000"
+    },
+    {
+      "wave": "6",
+      "hp": "1200"
+    }
+  ]
+}

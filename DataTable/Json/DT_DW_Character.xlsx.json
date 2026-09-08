@@ -1,0 +1,59 @@
+{
+  "character": [
+    {
+      "id": "1000",
+      "character_class": "Paladin",
+      "prefab": "PF_Player_Base",
+      "name": "paladin",
+      "desc": "paladin_info",
+      "unlock_chapter": "0",
+      "artifact_id": "13",
+      "base_prefab": "PF_Player_Base_001",
+      "hit_effect": "FX_p_Common_Hit_a001"
+    },
+    {
+      "id": "1001",
+      "character_class": "Barbarian",
+      "prefab": "PF_Player_002",
+      "name": "barbarian",
+      "desc": "barbarian_info",
+      "unlock_chapter": "1",
+      "artifact_id": "14",
+      "base_prefab": "PF_Player_Base_002",
+      "hit_effect": "FX_p_Common_Hit_a002"
+    },
+    {
+      "id": "1002",
+      "character_class": "GrandMaster",
+      "prefab": "PF_Player_004",
+      "name": "grand_master",
+      "desc": "grand_master_info",
+      "unlock_chapter": "2",
+      "artifact_id": "15",
+      "base_prefab": "PF_Player_Base_004",
+      "hit_effect": "FX_p_Common_Hit_a003"
+    },
+    {
+      "id": "1003",
+      "character_class": "Mage",
+      "prefab": "PF_Player_Base",
+      "name": "starlight_mage",
+      "desc": "starlight_mage_info",
+      "unlock_chapter": "3",
+      "artifact_id": "0",
+      "base_prefab": "none",
+      "hit_effect": "none"
+    },
+    {
+      "id": "1004",
+      "character_class": "Archer",
+      "prefab": "PF_Player_Base",
+      "name": "archer",
+      "desc": "archer_info",
+      "unlock_chapter": "4",
+      "artifact_id": "0",
+      "base_prefab": "none",
+      "hit_effect": "none"
+    }
+  ]
+}

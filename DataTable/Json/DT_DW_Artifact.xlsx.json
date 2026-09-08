@@ -1,0 +1,139 @@
+{
+  "artifactInfos": [
+    {
+      "id": "1",
+      "name": "relic_spirit_of_three_brothers",
+      "category": "AttackSupport",
+      "icon": "Icon_Relics_A01",
+      "rarity": "Common",
+      "desc": "relic_desc_01",
+      "count": "10"
+    },
+    {
+      "id": "2",
+      "name": "relic_boots_of_first_strike",
+      "category": "AttackSupport",
+      "icon": "Icon_Relics_A02",
+      "rarity": "Rare",
+      "desc": "relic_desc_02",
+      "count": "30"
+    },
+    {
+      "id": "3",
+      "name": "relic_apprentice_knights_longsword",
+      "category": "AttackSupport",
+      "icon": "Icon_Relics_A03",
+      "rarity": "Rare",
+      "desc": "relic_desc_03",
+      "count": "30"
+    },
+    {
+      "id": "4",
+      "name": "relic_paladins_judgment",
+      "category": "AttackSupport",
+      "icon": "Icon_Relics_A04",
+      "rarity": "Legendary",
+      "desc": "relic_desc_04",
+      "count": "50"
+    },
+    {
+      "id": "5",
+      "name": "relic_mirror_of_fortitude",
+      "category": "DefenseSupport",
+      "icon": "Icon_Relics_B01",
+      "rarity": "Common",
+      "desc": "relic_desc_05",
+      "count": "10"
+    },
+    {
+      "id": "6",
+      "name": "relic_hourglass_of_time",
+      "category": "DefenseSupport",
+      "icon": "Icon_Relics_B02",
+      "rarity": "Rare",
+      "desc": "relic_desc_06",
+      "count": "30"
+    },
+    {
+      "id": "7",
+      "name": "relic_mark_of_defied_fate",
+      "category": "DefenseSupport",
+      "icon": "Icon_Relics_B03",
+      "rarity": "Rare",
+      "desc": "relic_desc_07",
+      "count": "30"
+    },
+    {
+      "id": "8",
+      "name": "relic_martyrs_reliquary",
+      "category": "DefenseSupport",
+      "icon": "Icon_Relics_B04",
+      "rarity": "Legendary",
+      "desc": "relic_desc_08",
+      "count": "50"
+    },
+    {
+      "id": "9",
+      "name": "relic_tax_collectors_pouch",
+      "category": "ResourceGain",
+      "icon": "Icon_Relics_C01",
+      "rarity": "Common",
+      "desc": "relic_desc_09",
+      "count": "10"
+    },
+    {
+      "id": "10",
+      "name": "relic_abyssal_vein",
+      "category": "ResourceGain",
+      "icon": "Icon_Relics_C02",
+      "rarity": "Rare",
+      "desc": "relic_desc_10",
+      "count": "30"
+    },
+    {
+      "id": "11",
+      "name": "relic_gamblers_compass",
+      "category": "ResourceGain",
+      "icon": "Icon_Relics_C03",
+      "rarity": "Rare",
+      "desc": "relic_desc_11",
+      "count": "30"
+    },
+    {
+      "id": "12",
+      "name": "relic_lord_of_greed_sigil",
+      "category": "ResourceGain",
+      "icon": "Icon_Relics_C04",
+      "rarity": "Legendary",
+      "desc": "relic_desc_12",
+      "count": "50"
+    },
+    {
+      "id": "13",
+      "name": "paladins_oath",
+      "category": "PaladinRelic",
+      "icon": "Icon_Passive_Knight",
+      "rarity": "Rare",
+      "desc": "relic_desc_11",
+      "count": "0"
+    },
+    {
+      "id": "14",
+      "name": "relic_heart_of_the_beast",
+      "category": "BarbarianRelic",
+      "icon": "Icon_Passive_Babarian",
+      "rarity": "Rare",
+      "desc": "relic_desc_13",
+      "count": "0"
+    },
+    {
+      "id": "15",
+      "name": "relic_grand_masters_sigil",
+      "category": "GrandMasterRelic",
+      "icon": "Icon_Passive_Commander",
+      "rarity": "Rare",
+      "desc": "relic_desc_14",
+      "count": "0"
+    }
+  ]
+}

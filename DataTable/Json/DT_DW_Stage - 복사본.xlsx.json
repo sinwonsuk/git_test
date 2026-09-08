@@ -1,0 +1,1866 @@
+{
+  "stage": [
+    {
+      "stage": "1",
+      "type": "Normal",
+      "monster_hp_multiplier": "1",
+      "reward_id": "1000"
+    },
+    {
+      "stage": "2",
+      "type": "Normal",
+      "monster_hp_multiplier": "2",
+      "reward_id": "1001"
+    },
+    {
+      "stage": "3",
+      "type": "Normal",
+      "monster_hp_multiplier": "4",
+      "reward_id": "1002"
+    },
+    {
+      "stage": "4",
+      "type": "Normal",
+      "monster_hp_multiplier": "8",
+      "reward_id": "1003"
+    },
+    {
+      "stage": "5",
+      "type": "Normal",
+      "monster_hp_multiplier": "20",
+      "reward_id": "1004"
+    },
+    {
+      "stage": "6",
+      "type": "Normal",
+      "monster_hp_multiplier": "50",
+      "reward_id": "1005"
+    },
+    {
+      "stage": "7",
+      "type": "Normal",
+      "monster_hp_multiplier": "120",
+      "reward_id": "1006"
+    },
+    {
+      "stage": "8",
+      "type": "Normal",
+      "monster_hp_multiplier": "300",
+      "reward_id": "1007"
+    },
+    {
+      "stage": "9",
+      "type": "Normal",
+      "monster_hp_multiplier": "750",
+      "reward_id": "1008"
+    },
+    {
+      "stage": "10",
+      "type": "Normal",
+      "monster_hp_multiplier": "2000",
+      "reward_id": "1009"
+    },
+    {
+      "stage": "11",
+      "type": "Normal",
+      "monster_hp_multiplier": "5000",
+      "reward_id": "1010"
+    },
+    {
+      "stage": "12",
+      "type": "Normal",
+      "monster_hp_multiplier": "15000",
+      "reward_id": "1011"
+    },
+    {
+      "stage": "13",
+      "type": "Normal",
+      "monster_hp_multiplier": "50000",
+      "reward_id": "1012"
+    },
+    {
+      "stage": "14",
+      "type": "Normal",
+      "monster_hp_multiplier": "150000",
+      "reward_id": "1013"
+    },
+    {
+      "stage": "15",
+      "type": "Normal",
+      "monster_hp_multiplier": "500000",
+      "reward_id": "1014"
+    },
+    {
+      "stage": "16",
+      "type": "Normal",
+      "monster_hp_multiplier": "1500000",
+      "reward_id": "1015"
+    },
+    {
+      "stage": "17",
+      "type": "Normal",
+      "monster_hp_multiplier": "5000000",
+      "reward_id": "1016"
+    },
+    {
+      "stage": "18",
+      "type": "Normal",
+      "monster_hp_multiplier": "15000000",
+      "reward_id": "1017"
+    },
+    {
+      "stage": "19",
+      "type": "Normal",
+      "monster_hp_multiplier": "50000000",
+      "reward_id": "1018"
+    },
+    {
+      "stage": "20",
+      "type": "Normal",
+      "monster_hp_multiplier": "150000000",
+      "reward_id": "1019"
+    },
+    {
+      "stage": "21",
+      "type": "Normal",
+      "monster_hp_multiplier": "300000000",
+      "reward_id": "1020"
+    },
+    {
+      "stage": "22",
+      "type": "Normal",
+      "monster_hp_multiplier": "600000000",
+      "reward_id": "1021"
+    },
+    {
+      "stage": "23",
+      "type": "Normal",
+      "monster_hp_multiplier": "1200000000",
+      "reward_id": "1022"
+    },
+    {
+      "stage": "24",
+      "type": "Normal",
+      "monster_hp_multiplier": "2400000000",
+      "reward_id": "1023"
+    },
+    {
+      "stage": "25",
+      "type": "Normal",
+      "monster_hp_multiplier": "4800000000",
+      "reward_id": "1024"
+    },
+    {
+      "stage": "26",
+      "type": "Normal",
+      "monster_hp_multiplier": "9600000000",
+      "reward_id": "1025"
+    },
+    {
+      "stage": "27",
+      "type": "Normal",
+      "monster_hp_multiplier": "19200000000",
+      "reward_id": "1026"
+    },
+    {
+      "stage": "28",
+      "type": "Normal",
+      "monster_hp_multiplier": "38400000000",
+      "reward_id": "1027"
+    },
+    {
+      "stage": "29",
+      "type": "Normal",
+      "monster_hp_multiplier": "76800000000",
+      "reward_id": "1028"
+    },
+    {
+      "stage": "30",
+      "type": "Normal",
+      "monster_hp_multiplier": "153600000000",
+      "reward_id": "1029"
+    },
+    {
+      "stage": "31",
+      "type": "Normal",
+      "monster_hp_multiplier": "307200000000",
+      "reward_id": "1030"
+    },
+    {
+      "stage": "32",
+      "type": "Normal",
+      "monster_hp_multiplier": "614400000000",
+      "reward_id": "1031"
+    },
+    {
+      "stage": "33",
+      "type": "Normal",
+      "monster_hp_multiplier": "1228800000000",
+      "reward_id": "1032"
+    },
+    {
+      "stage": "34",
+      "type": "Normal",
+      "monster_hp_multiplier": "2457600000000",
+      "reward_id": "1033"
+    },
+    {
+      "stage": "35",
+      "type": "Normal",
+      "monster_hp_multiplier": "4915200000000",
+      "reward_id": "1034"
+    },
+    {
+      "stage": "36",
+      "type": "Normal",
+      "monster_hp_multiplier": "9830400000000",
+      "reward_id": "1035"
+    },
+    {
+      "stage": "37",
+      "type": "Normal",
+      "monster_hp_multiplier": "19660800000000",
+      "reward_id": "1036"
+    },
+    {
+      "stage": "38",
+      "type": "Normal",
+      "monster_hp_multiplier": "39321600000000",
+      "reward_id": "1037"
+    },
+    {
+      "stage": "39",
+      "type": "Normal",
+      "monster_hp_multiplier": "78643200000000",
+      "reward_id": "1038"
+    },
+    {
+      "stage": "40",
+      "type": "Normal",
+      "monster_hp_multiplier": "157286400000000",
+      "reward_id": "1039"
+    },
+    {
+      "stage": "41",
+      "type": "Normal",
+      "monster_hp_multiplier": "314572800000000",
+      "reward_id": "1040"
+    },
+    {
+      "stage": "42",
+      "type": "Normal",
+      "monster_hp_multiplier": "629145600000000",
+      "reward_id": "1041"
+    },
+    {
+      "stage": "43",
+      "type": "Normal",
+      "monster_hp_multiplier": "1258291200000000",
+      "reward_id": "1042"
+    },
+    {
+      "stage": "44",
+      "type": "Normal",
+      "monster_hp_multiplier": "2516582400000000",
+      "reward_id": "1043"
+    },
+    {
+      "stage": "45",
+      "type": "Normal",
+      "monster_hp_multiplier": "5033164800000000",
+      "reward_id": "1044"
+    },
+    {
+      "stage": "46",
+      "type": "Normal",
+      "monster_hp_multiplier": "10066329600000000",
+      "reward_id": "1045"
+    },
+    {
+      "stage": "47",
+      "type": "Normal",
+      "monster_hp_multiplier": "20132659200000000",
+      "reward_id": "1046"
+    },
+    {
+      "stage": "48",
+      "type": "Normal",
+      "monster_hp_multiplier": "40265318400000000",
+      "reward_id": "1047"
+    },
+    {
+      "stage": "49",
+      "type": "Normal",
+      "monster_hp_multiplier": "80530636800000000",
+      "reward_id": "1048"
+    },
+    {
+      "stage": "50",
+      "type": "Normal",
+      "monster_hp_multiplier": "161061273600000000",
+      "reward_id": "1049"
+    },
+    {
+      "stage": "51",
+      "type": "Normal",
+      "monster_hp_multiplier": "322122547200000000",
+      "reward_id": "1050"
+    },
+    {
+      "stage": "52",
+      "type": "Normal",
+      "monster_hp_multiplier": "644245094400000000",
+      "reward_id": "1051"
+    },
+    {
+      "stage": "53",
+      "type": "Normal",
+      "monster_hp_multiplier": "1288490188800000000",
+      "reward_id": "1052"
+    },
+    {
+      "stage": "54",
+      "type": "Normal",
+      "monster_hp_multiplier": "2576980377600000000",
+      "reward_id": "1053"
+    },
+    {
+      "stage": "55",
+      "type": "Normal",
+      "monster_hp_multiplier": "5153960755200000000",
+      "reward_id": "1054"
+    },
+    {
+      "stage": "56",
+      "type": "Normal",
+      "monster_hp_multiplier": "10307921510400000000",
+      "reward_id": "1055"
+    },
+    {
+      "stage": "57",
+      "type": "Normal",
+      "monster_hp_multiplier": "20615843020800000000",
+      "reward_id": "1056"
+    },
+    {
+      "stage": "58",
+      "type": "Normal",
+      "monster_hp_multiplier": "41231686041600000000",
+      "reward_id": "1057"
+    },
+    {
+      "stage": "59",
+      "type": "Normal",
+      "monster_hp_multiplier": "82463372083200000000",
+      "reward_id": "1058"
+    },
+    {
+      "stage": "60",
+      "type": "Normal",
+      "monster_hp_multiplier": "164926744166400000000",
+      "reward_id": "1059"
+    },
+    {
+      "stage": "61",
+      "type": "Normal",
+      "monster_hp_multiplier": "329853488332800000000",
+      "reward_id": "1060"
+    },
+    {
+      "stage": "62",
+      "type": "Normal",
+      "monster_hp_multiplier": "659706976665600000000",
+      "reward_id": "1061"
+    },
+    {
+      "stage": "63",
+      "type": "Normal",
+      "monster_hp_multiplier": "1319413953331200000000",
+      "reward_id": "1062"
+    },
+    {
+      "stage": "64",
+      "type": "Normal",
+      "monster_hp_multiplier": "2638827906662400000000",
+      "reward_id": "1063"
+    },
+    {
+      "stage": "65",
+      "type": "Normal",
+      "monster_hp_multiplier": "5277655813324800000000",
+      "reward_id": "1064"
+    },
+    {
+      "stage": "66",
+      "type": "Normal",
+      "monster_hp_multiplier": "10555311626649600000000",
+      "reward_id": "1065"
+    },
+    {
+      "stage": "67",
+      "type": "Normal",
+      "monster_hp_multiplier": "21110623253299200000000",
+      "reward_id": "1066"
+    },
+    {
+      "stage": "68",
+      "type": "Normal",
+      "monster_hp_multiplier": "42221246506598400000000",
+      "reward_id": "1067"
+    },
+    {
+      "stage": "69",
+      "type": "Normal",
+      "monster_hp_multiplier": "84442493013196800000000",
+      "reward_id": "1068"
+    },
+    {
+      "stage": "70",
+      "type": "Normal",
+      "monster_hp_multiplier": "168884986026393600000000",
+      "reward_id": "1069"
+    },
+    {
+      "stage": "71",
+      "type": "Normal",
+      "monster_hp_multiplier": "337769972052787200000000",
+      "reward_id": "1070"
+    },
+    {
+      "stage": "72",
+      "type": "Normal",
+      "monster_hp_multiplier": "675539944105574400000000",
+      "reward_id": "1071"
+    },
+    {
+      "stage": "73",
+      "type": "Normal",
+      "monster_hp_multiplier": "1351079888211148800000000",
+      "reward_id": "1072"
+    },
+    {
+      "stage": "74",
+      "type": "Normal",
+      "monster_hp_multiplier": "2702159776422297600000000",
+      "reward_id": "1073"
+    },
+    {
+      "stage": "75",
+      "type": "Normal",
+      "monster_hp_multiplier": "5404319552844595200000000",
+      "reward_id": "1074"
+    },
+    {
+      "stage": "76",
+      "type": "Normal",
+      "monster_hp_multiplier": "10808639105689190400000000",
+      "reward_id": "1075"
+    },
+    {
+      "stage": "77",
+      "type": "Normal",
+      "monster_hp_multiplier": "21617278211378380800000000",
+      "reward_id": "1076"
+    },
+    {
+      "stage": "78",
+      "type": "Normal",
+      "monster_hp_multiplier": "43234556422756761600000000",
+      "reward_id": "1077"
+    },
+    {
+      "stage": "79",
+      "type": "Normal",
+      "monster_hp_multiplier": "86469112845513523200000000",
+      "reward_id": "1078"
+    },
+    {
+      "stage": "80",
+      "type": "Normal",
+      "monster_hp_multiplier": "172938225691027046400000000",
+      "reward_id": "1079"
+    },
+    {
+      "stage": "81",
+      "type": "Normal",
+      "monster_hp_multiplier": "345876451382054092800000000",
+      "reward_id": "1080"
+    },
+    {
+      "stage": "82",
+      "type": "Normal",
+      "monster_hp_multiplier": "691752902764108185600000000",
+      "reward_id": "1081"
+    },
+    {
+      "stage": "83",
+      "type": "Normal",
+      "monster_hp_multiplier": "1383505805528216371200000000",
+      "reward_id": "1082"
+    },
+    {
+      "stage": "84",
+      "type": "Normal",
+      "monster_hp_multiplier": "2767011611056432742400000000",
+      "reward_id": "1083"
+    },
+    {
+      "stage": "85",
+      "type": "Normal",
+      "monster_hp_multiplier": "5534023222112865484800000000",
+      "reward_id": "1084"
+    },
+    {
+      "stage": "86",
+      "type": "Normal",
+      "monster_hp_multiplier": "11068046444225730969600000000",
+      "reward_id": "1085"
+    },
+    {
+      "stage": "87",
+      "type": "Normal",
+      "monster_hp_multiplier": "22136092888451461939200000000",
+      "reward_id": "1086"
+    },
+    {
+      "stage": "88",
+      "type": "Normal",
+      "monster_hp_multiplier": "44272185776902923878400000000",
+      "reward_id": "1087"
+    },
+    {
+      "stage": "89",
+      "type": "Normal",
+      "monster_hp_multiplier": "88544371553805847756800000000",
+      "reward_id": "1088"
+    },
+    {
+      "stage": "90",
+      "type": "Normal",
+      "monster_hp_multiplier": "177088743107611695513600000000",
+      "reward_id": "1089"
+    },
+    {
+      "stage": "91",
+      "type": "Normal",
+      "monster_hp_multiplier": "354177486215223391027200000000",
+      "reward_id": "1090"
+    },
+    {
+      "stage": "92",
+      "type": "Normal",
+      "monster_hp_multiplier": "708354972430446782054400000000",
+      "reward_id": "1091"
+    },
+    {
+      "stage": "93",
+      "type": "Normal",
+      "monster_hp_multiplier": "1416709944860893564108800000000",
+      "reward_id": "1092"
+    },
+    {
+      "stage": "94",
+      "type": "Normal",
+      "monster_hp_multiplier": "2833419889721787128217600000000",
+      "reward_id": "1093"
+    },
+    {
+      "stage": "95",
+      "type": "Normal",
+      "monster_hp_multiplier": "5666839779443574256435200000000",
+      "reward_id": "1094"
+    },
+    {
+      "stage": "96",
+      "type": "Normal",
+      "monster_hp_multiplier": "11333679558887148512870400000000",
+      "reward_id": "1095"
+    },
+    {
+      "stage": "97",
+      "type": "Normal",
+      "monster_hp_multiplier": "22667359117774297025740800000000",
+      "reward_id": "1096"
+    },
+    {
+      "stage": "98",
+      "type": "Normal",
+      "monster_hp_multiplier": "45334718235548594051481600000000",
+      "reward_id": "1097"
+    },
+    {
+      "stage": "99",
+      "type": "Normal",
+      "monster_hp_multiplier": "90669436471097188102963200000000",
+      "reward_id": "1098"
+    },
+    {
+      "stage": "100",
+      "type": "Normal",
+      "monster_hp_multiplier": "181338872942194376205926400000000",
+      "reward_id": "1099"
+    },
+    {
+      "stage": "1",
+      "type": "Arena",
+      "monster_hp_multiplier": "1",
+      "reward_id": "1100"
+    },
+    {
+      "stage": "1000",
+      "type": "Tutorial",
+      "monster_hp_multiplier": "1",
+      "reward_id": "10000"
+    }
+  ],
+  "stage_reward": [
+    {
+      "reward_id": "1000",
+      "round": "3",
+      "diamond": "3",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1000",
+      "round": "6",
+      "diamond": "4",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1001",
+      "round": "3",
+      "diamond": "4",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1001",
+      "round": "6",
+      "diamond": "5",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1002",
+      "round": "3",
+      "diamond": "5",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1002",
+      "round": "6",
+      "diamond": "6",
+      "ruby": "4"
+    },
+    {
+      "reward_id": "1003",
+      "round": "3",
+      "diamond": "6",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1003",
+      "round": "6",
+      "diamond": "7",
+      "ruby": "5"
+    },
+    {
+      "reward_id": "1004",
+      "round": "3",
+      "diamond": "7",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1004",
+      "round": "6",
+      "diamond": "8",
+      "ruby": "5"
+    },
+    {
+      "reward_id": "1005",
+      "round": "3",
+      "diamond": "8",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1005",
+      "round": "6",
+      "diamond": "9",
+      "ruby": "6"
+    },
+    {
+      "reward_id": "1006",
+      "round": "3",
+      "diamond": "9",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1006",
+      "round": "6",
+      "diamond": "10",
+      "ruby": "6"
+    },
+    {
+      "reward_id": "1007",
+      "round": "3",
+      "diamond": "10",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1007",
+      "round": "6",
+      "diamond": "11",
+      "ruby": "7"
+    },
+    {
+      "reward_id": "1008",
+      "round": "3",
+      "diamond": "11",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1008",
+      "round": "6",
+      "diamond": "12",
+      "ruby": "7"
+    },
+    {
+      "reward_id": "1009",
+      "round": "3",
+      "diamond": "12",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1009",
+      "round": "6",
+      "diamond": "13",
+      "ruby": "8"
+    },
+    {
+      "reward_id": "1010",
+      "round": "3",
+      "diamond": "13",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1010",
+      "round": "6",
+      "diamond": "14",
+      "ruby": "8"
+    },
+    {
+      "reward_id": "1011",
+      "round": "3",
+      "diamond": "14",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1011",
+      "round": "6",
+      "diamond": "15",
+      "ruby": "9"
+    },
+    {
+      "reward_id": "1012",
+      "round": "3",
+      "diamond": "15",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1012",
+      "round": "6",
+      "diamond": "16",
+      "ruby": "9"
+    },
+    {
+      "reward_id": "1013",
+      "round": "3",
+      "diamond": "16",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1013",
+      "round": "6",
+      "diamond": "17",
+      "ruby": "10"
+    },
+    {
+      "reward_id": "1014",
+      "round": "3",
+      "diamond": "17",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1014",
+      "round": "6",
+      "diamond": "18",
+      "ruby": "10"
+    },
+    {
+      "reward_id": "1015",
+      "round": "3",
+      "diamond": "18",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1015",
+      "round": "6",
+      "diamond": "19",
+      "ruby": "11"
+    },
+    {
+      "reward_id": "1016",
+      "round": "3",
+      "diamond": "19",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1016",
+      "round": "6",
+      "diamond": "20",
+      "ruby": "11"
+    },
+    {
+      "reward_id": "1017",
+      "round": "3",
+      "diamond": "20",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1017",
+      "round": "6",
+      "diamond": "21",
+      "ruby": "12"
+    },
+    {
+      "reward_id": "1018",
+      "round": "3",
+      "diamond": "21",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1018",
+      "round": "6",
+      "diamond": "22",
+      "ruby": "12"
+    },
+    {
+      "reward_id": "1019",
+      "round": "3",
+      "diamond": "22",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1019",
+      "round": "6",
+      "diamond": "23",
+      "ruby": "13"
+    },
+    {
+      "reward_id": "1020",
+      "round": "3",
+      "diamond": "23",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1020",
+      "round": "6",
+      "diamond": "24",
+      "ruby": "13"
+    },
+    {
+      "reward_id": "1021",
+      "round": "3",
+      "diamond": "24",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1021",
+      "round": "6",
+      "diamond": "25",
+      "ruby": "14"
+    },
+    {
+      "reward_id": "1022",
+      "round": "3",
+      "diamond": "25",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1022",
+      "round": "6",
+      "diamond": "26",
+      "ruby": "14"
+    },
+    {
+      "reward_id": "1023",
+      "round": "3",
+      "diamond": "26",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1023",
+      "round": "6",
+      "diamond": "27",
+      "ruby": "15"
+    },
+    {
+      "reward_id": "1024",
+      "round": "3",
+      "diamond": "27",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1024",
+      "round": "6",
+      "diamond": "28",
+      "ruby": "15"
+    },
+    {
+      "reward_id": "1025",
+      "round": "3",
+      "diamond": "28",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1025",
+      "round": "6",
+      "diamond": "29",
+      "ruby": "16"
+    },
+    {
+      "reward_id": "1026",
+      "round": "3",
+      "diamond": "29",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1026",
+      "round": "6",
+      "diamond": "30",
+      "ruby": "16"
+    },
+    {
+      "reward_id": "1027",
+      "round": "3",
+      "diamond": "30",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1027",
+      "round": "6",
+      "diamond": "31",
+      "ruby": "17"
+    },
+    {
+      "reward_id": "1028",
+      "round": "3",
+      "diamond": "31",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1028",
+      "round": "6",
+      "diamond": "32",
+      "ruby": "17"
+    },
+    {
+      "reward_id": "1029",
+      "round": "3",
+      "diamond": "32",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1029",
+      "round": "6",
+      "diamond": "33",
+      "ruby": "18"
+    },
+    {
+      "reward_id": "1030",
+      "round": "3",
+      "diamond": "33",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1030",
+      "round": "6",
+      "diamond": "34",
+      "ruby": "18"
+    },
+    {
+      "reward_id": "1031",
+      "round": "3",
+      "diamond": "34",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1031",
+      "round": "6",
+      "diamond": "35",
+      "ruby": "19"
+    },
+    {
+      "reward_id": "1032",
+      "round": "3",
+      "diamond": "35",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1032",
+      "round": "6",
+      "diamond": "36",
+      "ruby": "19"
+    },
+    {
+      "reward_id": "1033",
+      "round": "3",
+      "diamond": "36",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1033",
+      "round": "6",
+      "diamond": "37",
+      "ruby": "20"
+    },
+    {
+      "reward_id": "1034",
+      "round": "3",
+      "diamond": "37",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1034",
+      "round": "6",
+      "diamond": "38",
+      "ruby": "20"
+    },
+    {
+      "reward_id": "1035",
+      "round": "3",
+      "diamond": "38",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1035",
+      "round": "6",
+      "diamond": "39",
+      "ruby": "21"
+    },
+    {
+      "reward_id": "1036",
+      "round": "3",
+      "diamond": "39",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1036",
+      "round": "6",
+      "diamond": "40",
+      "ruby": "21"
+    },
+    {
+      "reward_id": "1037",
+      "round": "3",
+      "diamond": "40",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1037",
+      "round": "6",
+      "diamond": "41",
+      "ruby": "22"
+    },
+    {
+      "reward_id": "1038",
+      "round": "3",
+      "diamond": "41",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1038",
+      "round": "6",
+      "diamond": "42",
+      "ruby": "22"
+    },
+    {
+      "reward_id": "1039",
+      "round": "3",
+      "diamond": "42",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1039",
+      "round": "6",
+      "diamond": "43",
+      "ruby": "23"
+    },
+    {
+      "reward_id": "1040",
+      "round": "3",
+      "diamond": "43",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1040",
+      "round": "6",
+      "diamond": "44",
+      "ruby": "23"
+    },
+    {
+      "reward_id": "1041",
+      "round": "3",
+      "diamond": "44",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1041",
+      "round": "6",
+      "diamond": "45",
+      "ruby": "24"
+    },
+    {
+      "reward_id": "1042",
+      "round": "3",
+      "diamond": "45",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1042",
+      "round": "6",
+      "diamond": "46",
+      "ruby": "24"
+    },
+    {
+      "reward_id": "1043",
+      "round": "3",
+      "diamond": "46",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1043",
+      "round": "6",
+      "diamond": "47",
+      "ruby": "25"
+    },
+    {
+      "reward_id": "1044",
+      "round": "3",
+      "diamond": "47",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1044",
+      "round": "6",
+      "diamond": "48",
+      "ruby": "25"
+    },
+    {
+      "reward_id": "1045",
+      "round": "3",
+      "diamond": "48",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1045",
+      "round": "6",
+      "diamond": "49",
+      "ruby": "26"
+    },
+    {
+      "reward_id": "1046",
+      "round": "3",
+      "diamond": "49",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1046",
+      "round": "6",
+      "diamond": "50",
+      "ruby": "26"
+    },
+    {
+      "reward_id": "1047",
+      "round": "3",
+      "diamond": "50",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1047",
+      "round": "6",
+      "diamond": "51",
+      "ruby": "27"
+    },
+    {
+      "reward_id": "1048",
+      "round": "3",
+      "diamond": "51",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1048",
+      "round": "6",
+      "diamond": "52",
+      "ruby": "27"
+    },
+    {
+      "reward_id": "1049",
+      "round": "3",
+      "diamond": "52",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1049",
+      "round": "6",
+      "diamond": "53",
+      "ruby": "28"
+    },
+    {
+      "reward_id": "1050",
+      "round": "3",
+      "diamond": "53",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1050",
+      "round": "6",
+      "diamond": "54",
+      "ruby": "28"
+    },
+    {
+      "reward_id": "1051",
+      "round": "3",
+      "diamond": "54",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1051",
+      "round": "6",
+      "diamond": "55",
+      "ruby": "29"
+    },
+    {
+      "reward_id": "1052",
+      "round": "3",
+      "diamond": "55",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1052",
+      "round": "6",
+      "diamond": "56",
+      "ruby": "29"
+    },
+    {
+      "reward_id": "1053",
+      "round": "3",
+      "diamond": "56",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1053",
+      "round": "6",
+      "diamond": "57",
+      "ruby": "30"
+    },
+    {
+      "reward_id": "1054",
+      "round": "3",
+      "diamond": "57",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1054",
+      "round": "6",
+      "diamond": "58",
+      "ruby": "30"
+    },
+    {
+      "reward_id": "1055",
+      "round": "3",
+      "diamond": "58",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1055",
+      "round": "6",
+      "diamond": "59",
+      "ruby": "31"
+    },
+    {
+      "reward_id": "1056",
+      "round": "3",
+      "diamond": "59",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1056",
+      "round": "6",
+      "diamond": "60",
+      "ruby": "31"
+    },
+    {
+      "reward_id": "1057",
+      "round": "3",
+      "diamond": "60",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1057",
+      "round": "6",
+      "diamond": "61",
+      "ruby": "32"
+    },
+    {
+      "reward_id": "1058",
+      "round": "3",
+      "diamond": "61",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1058",
+      "round": "6",
+      "diamond": "62",
+      "ruby": "32"
+    },
+    {
+      "reward_id": "1059",
+      "round": "3",
+      "diamond": "62",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1059",
+      "round": "6",
+      "diamond": "63",
+      "ruby": "33"
+    },
+    {
+      "reward_id": "1060",
+      "round": "3",
+      "diamond": "63",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1060",
+      "round": "6",
+      "diamond": "64",
+      "ruby": "33"
+    },
+    {
+      "reward_id": "1061",
+      "round": "3",
+      "diamond": "64",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1061",
+      "round": "6",
+      "diamond": "65",
+      "ruby": "34"
+    },
+    {
+      "reward_id": "1062",
+      "round": "3",
+      "diamond": "65",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1062",
+      "round": "6",
+      "diamond": "66",
+      "ruby": "34"
+    },
+    {
+      "reward_id": "1063",
+      "round": "3",
+      "diamond": "66",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1063",
+      "round": "6",
+      "diamond": "67",
+      "ruby": "35"
+    },
+    {
+      "reward_id": "1064",
+      "round": "3",
+      "diamond": "67",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1064",
+      "round": "6",
+      "diamond": "68",
+      "ruby": "35"
+    },
+    {
+      "reward_id": "1065",
+      "round": "3",
+      "diamond": "68",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1065",
+      "round": "6",
+      "diamond": "69",
+      "ruby": "36"
+    },
+    {
+      "reward_id": "1066",
+      "round": "3",
+      "diamond": "69",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1066",
+      "round": "6",
+      "diamond": "70",
+      "ruby": "36"
+    },
+    {
+      "reward_id": "1067",
+      "round": "3",
+      "diamond": "70",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1067",
+      "round": "6",
+      "diamond": "71",
+      "ruby": "37"
+    },
+    {
+      "reward_id": "1068",
+      "round": "3",
+      "diamond": "71",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1068",
+      "round": "6",
+      "diamond": "72",
+      "ruby": "37"
+    },
+    {
+      "reward_id": "1069",
+      "round": "3",
+      "diamond": "72",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1069",
+      "round": "6",
+      "diamond": "73",
+      "ruby": "38"
+    },
+    {
+      "reward_id": "1070",
+      "round": "3",
+      "diamond": "73",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1070",
+      "round": "6",
+      "diamond": "74",
+      "ruby": "38"
+    },
+    {
+      "reward_id": "1071",
+      "round": "3",
+      "diamond": "74",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1071",
+      "round": "6",
+      "diamond": "75",
+      "ruby": "39"
+    },
+    {
+      "reward_id": "1072",
+      "round": "3",
+      "diamond": "75",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1072",
+      "round": "6",
+      "diamond": "76",
+      "ruby": "39"
+    },
+    {
+      "reward_id": "1073",
+      "round": "3",
+      "diamond": "76",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1073",
+      "round": "6",
+      "diamond": "77",
+      "ruby": "40"
+    },
+    {
+      "reward_id": "1074",
+      "round": "3",
+      "diamond": "77",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1074",
+      "round": "6",
+      "diamond": "78",
+      "ruby": "40"
+    },
+    {
+      "reward_id": "1075",
+      "round": "3",
+      "diamond": "78",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1075",
+      "round": "6",
+      "diamond": "79",
+      "ruby": "41"
+    },
+    {
+      "reward_id": "1076",
+      "round": "3",
+      "diamond": "79",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1076",
+      "round": "6",
+      "diamond": "80",
+      "ruby": "41"
+    },
+    {
+      "reward_id": "1077",
+      "round": "3",
+      "diamond": "80",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1077",
+      "round": "6",
+      "diamond": "81",
+      "ruby": "42"
+    },
+    {
+      "reward_id": "1078",
+      "round": "3",
+      "diamond": "81",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1078",
+      "round": "6",
+      "diamond": "82",
+      "ruby": "42"
+    },
+    {
+      "reward_id": "1079",
+      "round": "3",
+      "diamond": "82",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1079",
+      "round": "6",
+      "diamond": "83",
+      "ruby": "43"
+    },
+    {
+      "reward_id": "1080",
+      "round": "3",
+      "diamond": "83",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1080",
+      "round": "6",
+      "diamond": "84",
+      "ruby": "43"
+    },
+    {
+      "reward_id": "1081",
+      "round": "3",
+      "diamond": "84",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1081",
+      "round": "6",
+      "diamond": "85",
+      "ruby": "44"
+    },
+    {
+      "reward_id": "1082",
+      "round": "3",
+      "diamond": "85",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1082",
+      "round": "6",
+      "diamond": "86",
+      "ruby": "44"
+    },
+    {
+      "reward_id": "1083",
+      "round": "3",
+      "diamond": "86",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1083",
+      "round": "6",
+      "diamond": "87",
+      "ruby": "45"
+    },
+    {
+      "reward_id": "1084",
+      "round": "3",
+      "diamond": "87",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1084",
+      "round": "6",
+      "diamond": "88",
+      "ruby": "45"
+    },
+    {
+      "reward_id": "1085",
+      "round": "3",
+      "diamond": "88",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1085",
+      "round": "6",
+      "diamond": "89",
+      "ruby": "46"
+    },
+    {
+      "reward_id": "1086",
+      "round": "3",
+      "diamond": "89",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1086",
+      "round": "6",
+      "diamond": "90",
+      "ruby": "46"
+    },
+    {
+      "reward_id": "1087",
+      "round": "3",
+      "diamond": "90",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1087",
+      "round": "6",
+      "diamond": "91",
+      "ruby": "47"
+    },
+    {
+      "reward_id": "1088",
+      "round": "3",
+      "diamond": "91",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1088",
+      "round": "6",
+      "diamond": "92",
+      "ruby": "47"
+    },
+    {
+      "reward_id": "1089",
+      "round": "3",
+      "diamond": "92",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1089",
+      "round": "6",
+      "diamond": "93",
+      "ruby": "48"
+    },
+    {
+      "reward_id": "1090",
+      "round": "3",
+      "diamond": "93",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1090",
+      "round": "6",
+      "diamond": "94",
+      "ruby": "48"
+    },
+    {
+      "reward_id": "1091",
+      "round": "3",
+      "diamond": "94",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1091",
+      "round": "6",
+      "diamond": "95",
+      "ruby": "49"
+    },
+    {
+      "reward_id": "1092",
+      "round": "3",
+      "diamond": "95",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1092",
+      "round": "6",
+      "diamond": "96",
+      "ruby": "49"
+    },
+    {
+      "reward_id": "1093",
+      "round": "3",
+      "diamond": "96",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1093",
+      "round": "6",
+      "diamond": "97",
+      "ruby": "50"
+    },
+    {
+      "reward_id": "1094",
+      "round": "3",
+      "diamond": "97",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1094",
+      "round": "6",
+      "diamond": "98",
+      "ruby": "50"
+    },
+    {
+      "reward_id": "1095",
+      "round": "3",
+      "diamond": "98",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1095",
+      "round": "6",
+      "diamond": "99",
+      "ruby": "51"
+    },
+    {
+      "reward_id": "1096",
+      "round": "3",
+      "diamond": "99",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1096",
+      "round": "6",
+      "diamond": "100",
+      "ruby": "51"
+    },
+    {
+      "reward_id": "1097",
+      "round": "3",
+      "diamond": "100",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1097",
+      "round": "6",
+      "diamond": "101",
+      "ruby": "52"
+    },
+    {
+      "reward_id": "1098",
+      "round": "3",
+      "diamond": "101",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1098",
+      "round": "6",
+      "diamond": "102",
+      "ruby": "52"
+    },
+    {
+      "reward_id": "1099",
+      "round": "3",
+      "diamond": "102",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1099",
+      "round": "6",
+      "diamond": "103",
+      "ruby": "53"
+    },
+    {
+      "reward_id": "1100",
+      "round": "1",
+      "diamond": "8",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1100",
+      "round": "2",
+      "diamond": "8",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1100",
+      "round": "3",
+      "diamond": "8",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1100",
+      "round": "4",
+      "diamond": "8",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1100",
+      "round": "5",
+      "diamond": "8",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "1100",
+      "round": "6",
+      "diamond": "0",
+      "ruby": "10"
+    },
+    {
+      "reward_id": "10000",
+      "round": "3",
+      "diamond": "3",
+      "ruby": "0"
+    },
+    {
+      "reward_id": "10000",
+      "round": "6",
+      "diamond": "3",
+      "ruby": "0"
+    }
+  ]
+}

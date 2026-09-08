@@ -1,0 +1,131 @@
+{
+  "dailyMission": [
+    {
+      "idx": "1",
+      "sort": "1",
+      "name": "mission_one_pair",
+      "m_type": "M_HAND_ONE_PAIR",
+      "m_value": "5",
+      "reward_group": "1"
+    },
+    {
+      "idx": "2",
+      "sort": "2",
+      "name": "mission_two_pair",
+      "m_type": "M_HAND_TWO_PAIR",
+      "m_value": "3",
+      "reward_group": "2"
+    },
+    {
+      "idx": "3",
+      "sort": "3",
+      "name": "mission_three_of_a_kind",
+      "m_type": "M_HAND_THREE_OF_A_KIND",
+      "m_value": "2",
+      "reward_group": "3"
+    },
+    {
+      "idx": "4",
+      "sort": "4",
+      "name": "mission_straight",
+      "m_type": "M_HAND_STRAIGHT",
+      "m_value": "1",
+      "reward_group": "4"
+    },
+    {
+      "idx": "5",
+      "sort": "5",
+      "name": "mission_flush",
+      "m_type": "M_HAND_FLUSH",
+      "m_value": "1",
+      "reward_group": "5"
+    },
+    {
+      "idx": "6",
+      "sort": "6",
+      "name": "mission_round_clear",
+      "m_type": "M_CLEAR_ROUND",
+      "m_value": "3",
+      "reward_group": "6"
+    },
+    {
+      "idx": "7",
+      "sort": "7",
+      "name": "mission_joker_purchase",
+      "m_type": "M_PURCHASE_JOKER",
+      "m_value": "2",
+      "reward_group": "7"
+    },
+    {
+      "idx": "8",
+      "sort": "8",
+      "name": "mission_shop_reroll",
+      "m_type": "M_REROLL_SHOP",
+      "m_value": "1",
+      "reward_group": "8"
+    },
+    {
+      "idx": "9",
+      "sort": "9",
+      "name": "mission_full_house",
+      "m_type": "M_HAND_FULL_HOUSE",
+      "m_value": "1",
+      "reward_group": "6"
+    },
+    {
+      "idx": "100",
+      "sort": "0",
+      "name": "mission_all_clear",
+      "m_type": "M_ALL_CLEAR",
+      "m_value": "1",
+      "reward_group": "100"
+    }
+  ],
+  "reward": [
+    {
+      "idx": "1",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "2",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "3",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "4",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "5",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "6",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "7",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "8",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "1"
+    },
+    {
+      "idx": "100",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "3"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "jokerset": [
+    {
+      "set": "INDOMITABLE",
+      "tier": "3",
+      "desc": "set_chip_add"
+    },
+    {
+      "set": "INDOMITABLE",
+      "tier": "4",
+      "desc": "set_chip_per_discard"
+    },
+    {
+      "set": "WILL",
+      "tier": "3",
+      "desc": "set_hand_score_add"
+    },
+    {
+      "set": "WILL",
+      "tier": "4",
+      "desc": "set_final_score_multiplier"
+    },
+    {
+      "set": "FAITH",
+      "tier": "3",
+      "desc": "set_seed_penalty_reduce"
+    },
+    {
+      "set": "FAITH",
+      "tier": "4",
+      "desc": "set_seed_penalty_remove"
+    }
+  ]
+}

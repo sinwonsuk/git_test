@@ -1,0 +1,3124 @@
+{
+  "info": [
+    {
+      "id": "info_001",
+      "kr": "게임속도",
+      "en": "Game Speed",
+      "th": "ความเร็วเกม"
+    },
+    {
+      "id": "info_002",
+      "kr": "언어",
+      "en": "Language",
+      "th": "ภาษา"
+    },
+    {
+      "id": "info_003",
+      "kr": "뒤로",
+      "en": "Back",
+      "th": "ย้อนกลับ"
+    },
+    {
+      "id": "info_004",
+      "kr": "런\n<Size=12>정보</Size>",
+      "en": "Run\n<Size=12>Info</Size>",
+      "th": "ข้อมูล\n<Size=12>nรัน</Size>"
+    },
+    {
+      "id": "info_005",
+      "kr": "옵션",
+      "en": "Options",
+      "th": "ตัวเลือก"
+    },
+    {
+      "id": "info_006",
+      "kr": "핸드 플레이",
+      "en": "Play Hand",
+      "th": "เล่นมือไพ่"
+    },
+    {
+      "id": "info_007",
+      "kr": "핸드 정렬",
+      "en": "Sort Hand",
+      "th": "จัดเรียงมือไพ่"
+    },
+    {
+      "id": "info_008",
+      "kr": "숫자",
+      "en": "Rank",
+      "th": "อันดับ"
+    },
+    {
+      "id": "info_009",
+      "kr": "문양",
+      "en": "Suit",
+      "th": "ดอกไพ่"
+    },
+    {
+      "id": "info_010",
+      "kr": "버리기",
+      "en": "Discard",
+      "th": "ทิ้งไพ่"
+    },
+    {
+      "id": "info_011",
+      "kr": "포커 핸드",
+      "en": "Poker Hands",
+      "th": "รูปแบบไพ่โป๊กเกอร์"
+    },
+    {
+      "id": "info_012",
+      "kr": "스트레이트 플러시",
+      "en": "Straight Flush",
+      "th": "สเตรทฟลัช"
+    },
+    {
+      "id": "info_013",
+      "kr": "포카드",
+      "en": "Four of a Kind",
+      "th": "โฟร์การ์ด"
+    },
+    {
+      "id": "info_014",
+      "kr": "풀하우스",
+      "en": "Full House",
+      "th": "ฟูลเฮาส์"
+    },
+    {
+      "id": "info_015",
+      "kr": "플러시",
+      "en": "Flush",
+      "th": "ฟลัช"
+    },
+    {
+      "id": "info_016",
+      "kr": "스트레이트",
+      "en": "Straight",
+      "th": "สเตรท"
+    },
+    {
+      "id": "info_017",
+      "kr": "트리플",
+      "en": "Three of a Kind",
+      "th": "ตอง"
+    },
+    {
+      "id": "info_018",
+      "kr": "투페어",
+      "en": "Two Pair",
+      "th": "สองคู่"
+    },
+    {
+      "id": "info_019",
+      "kr": "원 페어",
+      "en": "One Pair",
+      "th": "คู่หนึ่ง"
+    },
+    {
+      "id": "info_020",
+      "kr": "하이 카드",
+      "en": "High Card",
+      "th": "ไพ่สูง"
+    },
+    {
+      "id": "info_021",
+      "kr": "사망",
+      "en": "Dead",
+      "th": "ตาย"
+    },
+    {
+      "id": "info_022",
+      "kr": "다음\n라운드",
+      "en": "Next\nRound",
+      "th": "รอบ\nถัดไป"
+    },
+    {
+      "id": "info_023",
+      "kr": "리롤\n<size=150%>   5</size>",
+      "en": "Reroll\n<size=150%>   5</size>",
+      "th": "สุ่มใหม่\n<size=150%>   5</size>"
+    },
+    {
+      "id": "info_024",
+      "kr": "구매",
+      "en": "Buy",
+      "th": "ซื้อ"
+    },
+    {
+      "id": "info_025",
+      "kr": "일반",
+      "en": "Common",
+      "th": "ทั่วไป"
+    },
+    {
+      "id": "info_026",
+      "kr": "사용",
+      "en": "Use",
+      "th": "ใช้"
+    },
+    {
+      "id": "info_027",
+      "kr": "회",
+      "en": "Time",
+      "th": "ครั้ง"
+    },
+    {
+      "id": "info_028",
+      "kr": "남음",
+      "en": "Remaining",
+      "th": "ที่เหลืออยู่"
+    },
+    {
+      "id": "info_029",
+      "kr": "풀 덱",
+      "en": "Full Deck",
+      "th": "ดาดฟ้าเต็ม"
+    },
+    {
+      "id": "info_030",
+      "kr": "기본 카드",
+      "en": "Basic Card",
+      "th": "การ์ดพื้นฐาน"
+    },
+    {
+      "id": "info_031",
+      "kr": "블루 덱",
+      "en": "Blue Deck",
+      "th": "ดาดฟ้าสีฟ้า"
+    },
+    {
+      "id": "info_032",
+      "kr": "라운드마다\n<color=red>+1</color> 핸드",
+      "en": "Each round\n<color=red>+1</color> hand",
+      "th": "แต่ละรอบ\n<color=red>+1</color> มือ"
+    },
+    {
+      "id": "info_033",
+      "kr": "새로 시작하기",
+      "en": "New Game",
+      "th": "เริ่มเกมใหม่"
+    },
+    {
+      "id": "info_034",
+      "kr": "이어하기",
+      "en": "Continue",
+      "th": "เล่นต่อ"
+    },
+    {
+      "id": "info_lang_001",
+      "kr": "한국어",
+      "en": "한국어",
+      "th": "한국어"
+    },
+    {
+      "id": "info_lang_002",
+      "kr": "English",
+      "en": "English",
+      "th": "English"
+    },
+    {
+      "id": "info_lang_003",
+      "kr": "แบบไทย",
+      "en": "แบบไทย",
+      "th": "แบบไทย"
+    },
+    {
+      "id": "arena_ranking",
+      "kr": "투기장 랭킹",
+      "en": "Arena Ranking",
+      "th": "อันดับสนามประลอง"
+    },
+    {
+      "id": "ranking",
+      "kr": "랭킹",
+      "en": "Ranking",
+      "th": "อันดับ"
+    },
+    {
+      "id": "rank",
+      "kr": "랭크",
+      "en": "Rank",
+      "th": "อันดับ"
+    },
+    {
+      "id": "forbidden_library",
+      "kr": "금단의 서고",
+      "en": "Forbidden Library",
+      "th": "ห้องสมุดต้องห้าม"
+    },
+    {
+      "id": "game_start",
+      "kr": "게임 시작",
+      "en": "Game Start",
+      "th": "เริ่มเกม"
+    },
+    {
+      "id": "daily_dungeon_start",
+      "kr": "일일 던전 시작",
+      "en": "Daily Dungeon Start",
+      "th": "เปิดคุกใต้ดินทุกวัน"
+    },
+    {
+      "id": "setting",
+      "kr": "설정",
+      "en": "Setting",
+      "th": "ตั้งค่า"
+    },
+    {
+      "id": "exit",
+      "kr": "나가기",
+      "en": "Exit",
+      "th": "ออก"
+    },
+    {
+      "id": "my_ranking",
+      "kr": "내 랭킹",
+      "en": "My Ranking",
+      "th": "อันดับของฉัน"
+    },
+    {
+      "id": "back",
+      "kr": "뒤로가기",
+      "en": "Back",
+      "th": "กลับ"
+    },
+    {
+      "id": "reset",
+      "kr": "초기화",
+      "en": "Reset",
+      "th": "รีเซ็ต"
+    },
+    {
+      "id": "game_speed",
+      "kr": "게임속도",
+      "en": "Game Speed",
+      "th": "ความเร็วเกม"
+    },
+    {
+      "id": "language",
+      "kr": "언어",
+      "en": "Language",
+      "th": "ภาษา"
+    },
+    {
+      "id": "skill_reset_confirm",
+      "kr": "스킬을 리셋하시겠습니까?",
+      "en": "Are you sure you want to reset your skills?",
+      "th": "คุณต้องการรีเซ็ตสกิลหรือไม่?"
+    },
+    {
+      "id": "skill_reset_done",
+      "kr": "스킬이 초기화되었습니다.",
+      "en": "Your skills have been reset.",
+      "th": "รีเซ็ตสกิลเรียบร้อยแล้ว"
+    },
+    {
+      "id": "reset_points_insufficient",
+      "kr": "리셋 포인트가 부족합니다.",
+      "en": "Not enough reset points.",
+      "th": "แต้มรีเซ็ตไม่เพียงพอ"
+    },
+    {
+      "id": "confirm",
+      "kr": "확인",
+      "en": "Confirm",
+      "th": "ยืนยัน"
+    },
+    {
+      "id": "cancel",
+      "kr": "취소",
+      "en": "Cancel",
+      "th": "ยกเลิก"
+    },
+    {
+      "id": "class_select",
+      "kr": "클래스 선택",
+      "en": "Class Select",
+      "th": "เลือกคลาส"
+    },
+    {
+      "id": "berserker",
+      "kr": "광전사",
+      "en": "Berserker",
+      "th": "นักรบคลั่ง"
+    },
+    {
+      "id": "berserker_info",
+      "kr": "넘치는 자존심으로 힘과 은혜를 다루어 왔고, 명예로운 영광의 길을 저버리고 황혼기에 악명을 떨치는 것을 택했다.",
+      "en": "With pride beyond measure they mastered strength and grace, turned from the path of honorable glory, and chose to cast a fearsome name in the twilight age.",
+      "th": "ด้วยความทะนงล้นเปล่า พวกเขาครองพลังและเมตตา ทอดทิ้งทางแห่งเกียรติยศอันสง่างาม และเลือกที่จะสร้างชื่อเสียงอันน่าสะพรึงในยุคสนธยา"
+    },
+    {
+      "id": "berserker_joker_info",
+      "kr": "원페어 시 x1배.\\n원페어가 핸드플레이 할 때 마다\\nx0.2배가 성장한다.",
+      "en": "One Pair: x1 mult.\\nEach time you play a hand as One Pair,\\nthe mult grows by x0.2.",
+      "th": "One Pair คูณ x1\\nทุกครั้งที่เล่นมือเป็น One Pair\\nคูณเพิ่ม x0.2"
+    },
+    {
+      "id": "owned_joker",
+      "kr": "보유 조커",
+      "en": "Owned Jokers",
+      "th": "โจ๊กเกอร์ที่มี"
+    },
+    {
+      "id": "unavailable",
+      "kr": "점수불가",
+      "en": "No Score",
+      "th": "ไม่นับคะแนน"
+    },
+    {
+      "id": "pirate",
+      "kr": "해적",
+      "en": "Pirate",
+      "th": "โจรสลัด"
+    },
+    {
+      "id": "knight",
+      "kr": "기사",
+      "en": "Knight",
+      "th": "อัศวิน"
+    },
+    {
+      "id": "archer",
+      "kr": "궁수",
+      "en": "Archer",
+      "th": "นักธนู"
+    },
+    {
+      "id": "mage",
+      "kr": "마법사",
+      "en": "Mage",
+      "th": "นักเวท"
+    },
+    {
+      "id": "boss_skill_desc",
+      "kr": "플레이어의 버리기가 <color=yellow><size=36>0</size></color>이 됩니다",
+      "en": "The player's discards become 0.",
+      "th": "การทิ้งไพ่ของผู้เล่นกลายเป็น 0"
+    },
+    {
+      "id": "attack_effect",
+      "kr": "공격 효과:",
+      "en": "Attack Effect:",
+      "th": "เอฟเฟกต์การโจมตี:"
+    },
+    {
+      "id": "wanted",
+      "kr": "현상수배",
+      "en": "WANTED",
+      "th": "หมายจับ"
+    },
+    {
+      "id": "thank_message",
+      "kr": "플레이해주셔서 감사합니다\\nwish list에 추가 해 주세요",
+      "en": "Thank you for playing.\\nPlease add the game to your wish list.",
+      "th": "ขอบคุณที่เล่น\\nกรุณาเพิ่มเกมนี้ใน wish list"
+    },
+    {
+      "id": "sell",
+      "kr": "판매",
+      "en": "Sell",
+      "th": "ขาย"
+    },
+    {
+      "id": "to_main_menu",
+      "kr": "메인 메뉴로",
+      "en": "To Main Menu",
+      "th": "เมนูหลัก"
+    },
+    {
+      "id": "continue",
+      "kr": "이어하기",
+      "en": "Continue",
+      "th": "เล่นต่อ"
+    },
+    {
+      "id": "restriction_caution",
+      "kr": "[신중함] 핸드플레이 -1",
+      "en": "[Caution] Hand plays -1",
+      "th": "[ความระมัดระวัง] การเล่นมือ -1"
+    },
+    {
+      "id": "restriction_twist_clubs",
+      "kr": "[뒤틀림] 클럽 포함 시 최종 점수 50%",
+      "en": "[Twist] Final score 50% if Clubs are included",
+      "th": "[บิดเบือน] คะแนนสุดท้าย 50% หากมีดอกจิก"
+    },
+    {
+      "id": "restriction_twist_spades",
+      "kr": "[뒤틀림] 스페이드 포함 시 최종 점수 50%",
+      "en": "[Twist] Final score 50% if Spades are included",
+      "th": "[บิดเบือน] คะแนนสุดท้าย 50% หากมีโพดำ"
+    },
+    {
+      "id": "restriction_twist_hearts",
+      "kr": "[뒤틀림] 하트 포함 시 최종 점수 50%",
+      "en": "[Twist] Final score 50% if Hearts are included",
+      "th": "[บิดเบือน] คะแนนสุดท้าย 50% หากมีโพแดง"
+    },
+    {
+      "id": "restriction_twist_diamonds",
+      "kr": "[뒤틀림] 다이아 포함 시 최종 점수 50%",
+      "en": "[Twist] Final score 50% if Diamonds are included",
+      "th": "[บิดเบือน] คะแนนสุดท้าย 50% หากมีข้าวหลามตัด"
+    },
+    {
+      "id": "restriction_scarcity",
+      "kr": "[결핍감] 핸드 크기 -1",
+      "en": "[Scarcity] Hand size -1",
+      "th": "[ขาดแคลน] ขนาดมือ -1"
+    },
+    {
+      "id": "restriction_resolve",
+      "kr": "[결단력] 버리기 1",
+      "en": "[Resolve] Discards 1",
+      "th": "[มุ่งมั่น] ทิ้งไพ่ 1"
+    },
+    {
+      "id": "restriction_tenacity",
+      "kr": "[강인함] 체력 1.4배",
+      "en": "[Tenacity] HP x1.4",
+      "th": "[ความแข็งแกร่ง] HP x1.4"
+    },
+    {
+      "id": "restriction_sealing",
+      "kr": "[봉인술] 조커 1장 사용 불가",
+      "en": "[Sealing] Cannot use 1 random Joker",
+      "th": "[ผนึก] ใช้โจ๊กเกอร์ 1 ใบไม่ได้"
+    },
+    {
+      "id": "restriction_imbalance_odd",
+      "kr": "[불균형] 홀수(3,5,7,9) 포함 시 최종 점수 50%",
+      "en": "[Imbalance] Final score 50% if odd cards (3,5,7,9) are included",
+      "th": "[ความไม่สมดุล] คะแนนสุดท้าย 50% หากมีเลขคี่ (3,5,7,9)"
+    },
+    {
+      "id": "restriction_imbalance_even",
+      "kr": "[불균형] 짝수(2,4,6,8,10) 포함 시 최종 점수 50%",
+      "en": "[Imbalance] Final score 50% if even cards (2,4,6,8,10) are included",
+      "th": "[ความไม่สมดุล] คะแนนสุดท้าย 50% หากมีเลขคู่ (2,4,6,8,10)"
+    },
+    {
+      "id": "restriction_insubordination",
+      "kr": "[하극상] A,K,Q,J 포함 시 최종 점수 50%",
+      "en": "[Insubordination] Final score 50% if A,K,Q,J are included",
+      "th": "[กบฏ] คะแนนสุดท้าย 50% หากมี A,K,Q,J"
+    },
+    {
+      "id": "restriction_taboo_high_card",
+      "kr": "[금기령] 하이 카드 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on High Card",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อไพ่สูง"
+    },
+    {
+      "id": "restriction_taboo_one_pair",
+      "kr": "[금기령] 원페어 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on One Pair",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อคู่หนึ่ง"
+    },
+    {
+      "id": "restriction_taboo_two_pair",
+      "kr": "[금기령] 투페어 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on Two Pair",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อสองคู่"
+    },
+    {
+      "id": "restriction_taboo_three",
+      "kr": "[금기령] 트리플 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on Three of a Kind",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อตอง"
+    },
+    {
+      "id": "restriction_taboo_straight",
+      "kr": "[금기령] 스트레이트 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on Straight",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อสเตรท"
+    },
+    {
+      "id": "restriction_taboo_flush",
+      "kr": "[금기령] 플러쉬 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on Flush",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อฟลัช"
+    },
+    {
+      "id": "restriction_taboo_full_house",
+      "kr": "[금기령] 풀하우스 시 최종 점수 50%",
+      "en": "[Taboo] Final score 50% on Full House",
+      "th": "[ต้องห้าม] คะแนนสุดท้าย 50% เมื่อฟูลเฮาส์"
+    },
+    {
+      "id": "berserker_story_001",
+      "kr": "넘치는 자존심으로 힘과 은혜를 다루어 왔고, 명예로운 영광의 길을 저버리고 황혼기에 악명을 떨치는 것을 택했다.",
+      "en": "Consumed by overwhelming pride, they wielded power and grace, abandoned the honorable path of glory, and chose to earn infamy in their twilight years."
+    },
+    {
+      "id": "chapter_select",
+      "kr": "챕터 선택",
+      "en": "Chapter Select"
+    },
+    {
+      "id": "now_loading",
+      "kr": "로딩 중",
+      "en": "NOW LOADING"
+    },
+    {
+      "id": "locked",
+      "kr": "잠김",
+      "en": "Locked"
+    },
+    {
+      "id": "unlock_stage",
+      "kr": "{0} 챕터 4 스테이지 격파 시 해금",
+      "en": "Unlocked after clearing Chapter {0} Stage 4"
+    },
+    {
+      "id": "unlock_attendance",
+      "kr": "{0}일차 출석 시 해금",
+      "en": "Unlocked on attendance day {0}"
+    },
+    {
+      "id": "next_chapter_unlocked",
+      "kr": "다음 챕터가 해금되었습니다.",
+      "en": "The next chapter has been unlocked.",
+      "th": "บทถัดไปถูกปลดล็อกแล้ว"
+    },
+    {
+      "id": "next_character_unlocked",
+      "kr": "다음 캐릭터가 해금되었습니다.",
+      "en": "The next character has been unlocked."
+    },
+    {
+      "id": "arena_unlocked",
+      "kr": "투기장이 해금되었습니다.",
+      "en": "The Arena has been unlocked."
+    },
+    {
+      "id": "play",
+      "kr": "플레이",
+      "en": "Play"
+    },
+    {
+      "id": "arena",
+      "kr": "투기장",
+      "en": "Arena"
+    },
+    {
+      "id": "character_choice",
+      "kr": "캐릭터 선택",
+      "en": "Character Choice"
+    },
+    {
+      "id": "barbarian",
+      "kr": "야만전사",
+      "en": "Barbarian"
+    },
+    {
+      "id": "paladin",
+      "kr": "성기사",
+      "en": "Paladin"
+    },
+    {
+      "id": "grand_master",
+      "kr": "기사단장",
+      "en": "GrandMaster"
+    },
+    {
+      "id": "test",
+      "kr": "test",
+      "en": "test"
+    },
+    {
+      "id": "owned_relics",
+      "kr": "보유 유물",
+      "en": "Owned Relics"
+    },
+    {
+      "id": "chapter",
+      "kr": "챕터 {0}",
+      "en": "Chapter {0}"
+    },
+    {
+      "id": "chapter_name_0",
+      "kr": "튜토리얼",
+      "en": "Tutorial"
+    },
+    {
+      "id": "chapter_name_1",
+      "kr": "무너진 사원",
+      "en": "Ruined Temple"
+    },
+    {
+      "id": "chapter_name_2",
+      "kr": "메마른 사막",
+      "en": "Scorched Desert"
+    },
+    {
+      "id": "chapter_name_3",
+      "kr": "옛 도읍",
+      "en": "Ancient Capital"
+    },
+    {
+      "id": "chapter_prefix_1",
+      "kr": "악몽의",
+      "en": "Nightmare's"
+    },
+    {
+      "id": "chapter_prefix_2",
+      "kr": "파멸의",
+      "en": "Doom's"
+    },
+    {
+      "id": "chapter_prefix_3",
+      "kr": "심연의",
+      "en": "Abyssal"
+    },
+    {
+      "id": "chapter_prefix_4",
+      "kr": "종말의",
+      "en": "Apocalyptic"
+    },
+    {
+      "id": "chapter_name_4",
+      "kr": "심연의 숲",
+      "en": "Abyssal Forest"
+    },
+    {
+      "id": "chapter_name_5",
+      "kr": "암흑의 성",
+      "en": "Dark Castle"
+    },
+    {
+      "id": "pedigree",
+      "kr": "족보",
+      "en": "pedigree"
+    },
+    {
+      "id": "relic",
+      "kr": "유물",
+      "en": "Relic"
+    },
+    {
+      "id": "upgrade",
+      "kr": "업그레이드",
+      "en": "upgrade"
+    },
+    {
+      "id": "close",
+      "kr": "닫기",
+      "en": "Close"
+    },
+    {
+      "id": "equip",
+      "kr": "장착",
+      "en": "Equip"
+    },
+    {
+      "id": "attack",
+      "kr": "공격",
+      "en": "Attack"
+    },
+    {
+      "id": "defense",
+      "kr": "방어",
+      "en": "Defense"
+    },
+    {
+      "id": "gold",
+      "kr": "골드",
+      "en": "Gold"
+    },
+    {
+      "id": "relic_desc_01",
+      "kr": "제출한 패에 같은 숫자 <color=#00FF00>3</color>개(트리플) 포함 시 칩 <color=#00FF00>X2</color>",
+      "en": "When your played hand contains Three of a Kind, Chips <color=#00FF00>×2</color>"
+    },
+    {
+      "id": "relic_desc_02",
+      "kr": "현재 라운드의 '첫 번째 핸드 플레이'의 최종 대미지 <color=#00BFFF>X1.3</color>",
+      "en": "Your first hand played each round deals <color=#00BFFF>×1.3</color> final damage."
+    },
+    {
+      "id": "relic_desc_03",
+      "kr": "핸드 플레이 <color=#00BFFF>+1</color>",
+      "en": "<color=#00BFFF>+1</color> Hand Play"
+    },
+    {
+      "id": "relic_desc_04",
+      "kr": "핸드 플레이 <color=#FFA500>+2</color>",
+      "en": "<color=#FFA500>+2</color> Hand Plays"
+    },
+    {
+      "id": "relic_desc_05",
+      "kr": "버리기 <color=#00FF00>+1</color>",
+      "en": "<color=#00FF00>+1</color> Discard"
+    },
+    {
+      "id": "relic_desc_06",
+      "kr": "버리기 시\\n<color=#00BFFF>30%</color> 확률로 횟수가 차감되지 않음",
+      "en": "Discarding has a <color=#00BFFF>30%</color> chance not to consume a discard."
+    },
+    {
+      "id": "relic_desc_07",
+      "kr": "핸드 플레이 시\\n<color=#00BFFF>30%</color> 확률로 횟수가 차감되지 않음",
+      "en": "Playing a hand has a <color=#00BFFF>30%</color> chance not to consume a hand play."
+    },
+    {
+      "id": "relic_desc_08",
+      "kr": "사망 시\\n<color=#FFA500>1회</color> 부활",
+      "en": "Revive <color=#FFA500>1</color> time upon death."
+    },
+    {
+      "id": "relic_desc_09",
+      "kr": "라운드 종료마다\\n<color=#00FF00>+2골드</color>",
+      "en": "Gain <color=#00FF00>+2</color> Gold at the end of each round."
+    },
+    {
+      "id": "relic_desc_10",
+      "kr": "보스 처치마다\\n<color=#00BFFF>+2다이아</color>",
+      "en": "Gain <color=#00BFFF>+2</color> Diamonds for each boss defeated."
+    },
+    {
+      "id": "relic_desc_11",
+      "kr": "리롤 <color=#00BFFF>1회 무료</color>",
+      "en": "The <color=#00BFFF>1st</color> reroll is free upon entering the shop."
+    },
+    {
+      "id": "relic_desc_12",
+      "kr": "보스 처치마다\\n<color=#FFA500>+3다이아</color>",
+      "en": "Gain <color=#FFA500>+3</color> Diamonds for each boss defeated."
+    },
+    {
+      "id": "relic_desc_13",
+      "kr": "버리기 시\\n<color=#00BFFF>25%</color> 확률로 횟수가 차감되지 않음",
+      "en": "Discarding has a <color=#00BFFF>25%</color> chance not to consume a discard."
+    },
+    {
+      "id": "relic_desc_14",
+      "kr": "라운드 클리어 시\\n5골드 보유마다 <color=#00BFFF>+1골드</color>\\n(50골드까지)",
+      "en": "Gain <color=#00BFFF>+1</color> Gold for every 5 Gold held at round clear.\\n(Up to 50 Gold held)"
+    },
+    {
+      "id": "relic_spirit_of_three_brothers",
+      "kr": "삼형제의 영혼",
+      "en": "Spirit of the Three Brothers"
+    },
+    {
+      "id": "relic_boots_of_first_strike",
+      "kr": "선제공격의 군화",
+      "en": "Boots of First Strike"
+    },
+    {
+      "id": "relic_apprentice_knights_longsword",
+      "kr": "견습기사의 장검",
+      "en": "Apprentice Knight's Longsword"
+    },
+    {
+      "id": "relic_paladins_judgment",
+      "kr": "성기사의 심판",
+      "en": "Paladin's Judgment"
+    },
+    {
+      "id": "relic_mirror_of_fortitude",
+      "kr": "철벽의 거울",
+      "en": "Mirror of Fortitude"
+    },
+    {
+      "id": "relic_hourglass_of_time",
+      "kr": "시간의 모래시계",
+      "en": "Hourglass of Time"
+    },
+    {
+      "id": "relic_mark_of_defied_fate",
+      "kr": "운명 거부의 인장",
+      "en": "Sigil of Defied Fate"
+    },
+    {
+      "id": "relic_martyrs_reliquary",
+      "kr": "순교자의 성골함",
+      "en": "Martyr's Reliquary"
+    },
+    {
+      "id": "relic_tax_collectors_pouch",
+      "kr": "징세관의 주머니",
+      "en": "Tax Collector's Pouch"
+    },
+    {
+      "id": "relic_abyssal_vein",
+      "kr": "심연의 광맥",
+      "en": "Abyssal Vein"
+    },
+    {
+      "id": "relic_gamblers_compass",
+      "kr": "도박꾼의 나침반",
+      "en": "Gambler's Compass"
+    },
+    {
+      "id": "relic_lord_of_greed_sigil",
+      "kr": "탐욕의 군주 인장",
+      "en": "Sigil of the Lord of Greed"
+    },
+    {
+      "id": "paladins_oath",
+      "kr": "성기사의 맹세",
+      "en": "Paladin's Oath"
+    },
+    {
+      "id": "option",
+      "kr": "옵션",
+      "en": "Option"
+    },
+    {
+      "id": "nickname",
+      "kr": "이름",
+      "en": "NickName"
+    },
+    {
+      "id": "score",
+      "kr": "점수",
+      "en": "Score"
+    },
+    {
+      "id": "next",
+      "kr": "다음",
+      "en": "Next"
+    },
+    {
+      "id": "reroll",
+      "kr": "리롤",
+      "en": "Reroll"
+    },
+    {
+      "id": "jokershop",
+      "kr": "조커 상점",
+      "en": "Joker Shop"
+    },
+    {
+      "id": "victory",
+      "kr": "승리",
+      "en": "VICTORY"
+    },
+    {
+      "id": "base_reward",
+      "kr": "기본 보상",
+      "en": "Base Reward"
+    },
+    {
+      "id": "hand_remained",
+      "kr": "남은 핸드",
+      "en": "Hand Remained"
+    },
+    {
+      "id": "discard_remained",
+      "kr": "남은 버리기",
+      "en": "Discard Remained"
+    },
+    {
+      "id": "total_reward",
+      "kr": "총 보상",
+      "en": "Total Reward"
+    },
+    {
+      "id": "total_amount",
+      "kr": "총 획득량",
+      "en": "Total Amount"
+    },
+    {
+      "id": "not_enough_gold_for_reroll",
+      "kr": "리롤하기 위한 골드가 부족합니다.",
+      "en": "Not enough Gold for reroll."
+    },
+    {
+      "id": "runinfo",
+      "kr": "런 인포 ",
+      "en": "RunInfo"
+    },
+    {
+      "id": "starlight_mage",
+      "kr": "별빛술사",
+      "en": "Starlight Mage"
+    },
+    {
+      "id": "ranger",
+      "kr": "순찰자",
+      "en": "Ranger"
+    },
+    {
+      "id": "fullscreen",
+      "kr": "전체 화면",
+      "en": "Full Screen"
+    },
+    {
+      "id": "windowed_resolution",
+      "kr": "창 모드 해상도",
+      "en": "Windowed Resolution"
+    },
+    {
+      "id": "unlock",
+      "kr": "해금",
+      "en": "Unlock"
+    },
+    {
+      "id": "unequip",
+      "kr": "장착 해제",
+      "en": "Unequip"
+    },
+    {
+      "id": "reward",
+      "kr": "보상",
+      "en": "Reward"
+    },
+    {
+      "id": "message_not_enough_diamond",
+      "kr": "다이아가 부족합니다.\\n(필요: {0})",
+      "en": "Not enough Diamonds.\\n(Required: {0})"
+    },
+    {
+      "id": "sell_card_confirm",
+      "kr": "이 카드를 판매하시겠습니까?",
+      "en": "Do you want to sell this card?"
+    },
+    {
+      "id": "quality_low",
+      "kr": "하",
+      "en": "Low"
+    },
+    {
+      "id": "quality_mid",
+      "kr": "중",
+      "en": "Med"
+    },
+    {
+      "id": "quality_high",
+      "kr": "상",
+      "en": "High"
+    },
+    {
+      "id": "cant_sell_card",
+      "kr": "이 카드는 판매할 수 없습니다.",
+      "en": "This card cannot be sold."
+    },
+    {
+      "id": "joker_set",
+      "kr": "세트",
+      "en": "Set"
+    },
+    {
+      "id": "set_chip_add",
+      "kr": "칩 +120",
+      "en": "Chips +120",
+      "th": "จำนวน +120"
+    },
+    {
+      "id": "set_chip_per_discard",
+      "kr": "남은 핸드플레이 1당\n칩 +30",
+      "en": "Per remaining hand play\nChips +30",
+      "th": "ต่อการเล่นมือที่เหลือ\nจำนวน +30"
+    },
+    {
+      "id": "set_final_score_multiplier",
+      "kr": "최종 점수 x2",
+      "en": "Final Score x2"
+    },
+    {
+      "id": "set_hand_score_add",
+      "kr": "족보 점수 +10",
+      "en": "Hand Score +10"
+    },
+    {
+      "id": "set_seed_penalty_reduce",
+      "kr": "씨앗 유지 횟수 +1\n버리기 +1",
+      "en": "Seed duration +1\nDiscards +1",
+      "th": "จำนวนคงเมล็ด +1\nทิ้งไพ่ +1"
+    },
+    {
+      "id": "set_seed_penalty_remove",
+      "kr": "남은 버리기당 골드 +2\n핸드 크기 +1",
+      "en": "Gold +2 per remaining discard\nHand size +1",
+      "th": "ทิ้งไพ่ที่เหลือแต่ละใบ โกลด์ +2\nขนาดมือ +1"
+    },
+    {
+      "id": "skill",
+      "kr": "스킬",
+      "en": "Skill"
+    },
+    {
+      "id": "coming_soon",
+      "kr": "추후 공개 예정",
+      "en": "Coming Soon"
+    },
+    {
+      "id": "ruby",
+      "kr": "루비",
+      "en": "Ruby"
+    },
+    {
+      "id": "diamond",
+      "kr": "다이아몬드",
+      "en": "Diamond"
+    },
+    {
+      "id": "cant_enter",
+      "kr": "[입장 불가]\\n오늘의 일일 결투 횟수를 모두 사용했습니다.",
+      "en": "[Can't Enter]\\nYou have used all of your daily duel attempts for today."
+    },
+    {
+      "id": "rarity_uncommon",
+      "kr": "고급",
+      "en": "Uncommon"
+    },
+    {
+      "id": "rarity_rare",
+      "kr": "희귀",
+      "en": "Rare"
+    },
+    {
+      "id": "rarity_legendary",
+      "kr": "전설",
+      "en": "Legendary"
+    },
+    {
+      "id": "owned",
+      "kr": "보유중",
+      "en": "owned"
+    },
+    {
+      "id": "how_stage_clear",
+      "kr": "{0} 스테이지까지 클리어",
+      "en": "Cleared up to Stage {0}"
+    },
+    {
+      "id": "relic_grand_masters_sigil",
+      "kr": "기사단장의 인장",
+      "en": "Grand Master's Sigil"
+    },
+    {
+      "id": "relic_heart_of_the_beast",
+      "kr": "야수의 심장",
+      "en": "Heart of the Beast"
+    },
+    {
+      "id": "high_score",
+      "kr": "최고 점수",
+      "en": "High Score"
+    },
+    {
+      "id": "total_card",
+      "kr": "전체 카드",
+      "en": "Total Cards"
+    },
+    {
+      "id": "remaining_card",
+      "kr": "남은 카드",
+      "en": "Remaining Cards"
+    },
+    {
+      "id": "go_to_main_menu",
+      "kr": "메인 메뉴로 이동하시겠습니까?",
+      "en": "Would you like to go to the main menu?"
+    },
+    {
+      "id": "not_enough_money",
+      "kr": "골드가 부족합니다",
+      "en": "Not Enough Gold"
+    },
+    {
+      "id": "attendance_day",
+      "kr": "일",
+      "en": "Day"
+    },
+    {
+      "id": "attendance",
+      "kr": "출석",
+      "en": "Attendance"
+    },
+    {
+      "id": "received",
+      "kr": "완료",
+      "en": "Claimed",
+      "th": "Claimed"
+    },
+    {
+      "id": "receive",
+      "kr": "받기",
+      "en": "Claim",
+      "th": "Claim"
+    },
+    {
+      "id": "daily_mission_title",
+      "kr": "일일 미션",
+      "en": "Daily Mission",
+      "th": "Daily Mission"
+    },
+    {
+      "id": "mission_one_pair",
+      "kr": "원페어 {0}회 달성",
+      "en": "Make One Pair {0} Times",
+      "th": "Make One Pair {1} Times"
+    },
+    {
+      "id": "mission_two_pair",
+      "kr": "투페어 {0}회 달성",
+      "en": "Make Two Pair {0} Times",
+      "th": "Make Two Pair {1} Times"
+    },
+    {
+      "id": "mission_three_of_a_kind",
+      "kr": "트리플 {0}회 달성",
+      "en": "Make Three of a Kind {0} Times",
+      "th": "Make Three of a Kind {1} Times"
+    },
+    {
+      "id": "mission_straight",
+      "kr": "스트레이트 {0}회 달성",
+      "en": "Make a Straight {0} Times",
+      "th": "Make a Straight {1} Times"
+    },
+    {
+      "id": "mission_flush",
+      "kr": "플러시 {0}회 달성",
+      "en": "Make a Flush {0} Times",
+      "th": "Make a Flush {1} Times"
+    },
+    {
+      "id": "mission_round_clear",
+      "kr": "라운드 {0}회 클리어",
+      "en": "Clear {0} Rounds",
+      "th": "Clear {1} Rounds"
+    },
+    {
+      "id": "mission_joker_purchase",
+      "kr": "조커 {0}회 구매",
+      "en": "Purchase {0} Jokers",
+      "th": "Purchase {1} Jokers"
+    },
+    {
+      "id": "mission_shop_reroll",
+      "kr": "상점 {0}회 리롤",
+      "en": "Reroll the Shop {0} Times",
+      "th": "Reroll the Shop {1} Times"
+    },
+    {
+      "id": "mission_full_house",
+      "kr": "풀하우스 {0}회 달성",
+      "en": "Make a Full House {0} Times",
+      "th": "Make a Full House {1} Times"
+    },
+    {
+      "id": "mission_all_clear",
+      "kr": "전체 미션 완료",
+      "en": "Complete All Daily Missions",
+      "th": "Complete All Daily Missions"
+    },
+    {
+      "id": "daily_mission_reset_notice",
+      "kr": "일일 미션은 매일 자정에 초기화됩니다",
+      "en": "Daily missions reset every day at midnight.",
+      "th": "Daily missions reset every day at midnight."
+    },
+    {
+      "id": "attendance_check",
+      "kr": "출석체크",
+      "en": "Attendance Check"
+    },
+    {
+      "id": "attendance_character_unlock",
+      "kr": "{0} 해금",
+      "en": "Unlock {0}"
+    },
+    {
+      "id": "boss_weakness",
+      "kr": "약점 : {0}",
+      "en": "Weakness: {0}",
+      "th": "จุดอ่อน : {0}"
+    }
+  ],
+  "joker": [
+    {
+      "id": "joker_name_001",
+      "kr": "다이아몬드",
+      "en": "Diamond",
+      "th": "ไดมอนด์"
+    },
+    {
+      "id": "joker_name_002",
+      "kr": "조커 B",
+      "en": "Joker B",
+      "th": "โจ๊กเกอร์ B"
+    },
+    {
+      "id": "joker_name_003",
+      "kr": "원페어",
+      "en": "One Pair",
+      "th": "ไพ่คู่เดียว"
+    },
+    {
+      "id": "joker_name_004",
+      "kr": "투페어",
+      "en": "Two Pair",
+      "th": "ไพ่สองคู่"
+    },
+    {
+      "id": "joker_name_005",
+      "kr": "트리플",
+      "en": "Three of a Kind",
+      "th": "ไพ่ตอง"
+    },
+    {
+      "id": "joker_name_006",
+      "kr": "포카드",
+      "en": "Four of a Kind",
+      "th": "ไพ่โฟร์การ์ด"
+    },
+    {
+      "id": "joker_name_007",
+      "kr": "풀하우스",
+      "en": "Full House",
+      "th": "ฟูลเฮาส์"
+    },
+    {
+      "id": "joker_name_008",
+      "kr": "하이카드",
+      "en": "High Card",
+      "th": "ไพ่สูง"
+    },
+    {
+      "id": "joker_name_009",
+      "kr": "스트레이트",
+      "en": "Straight",
+      "th": "สเตรท"
+    },
+    {
+      "id": "joker_name_010",
+      "kr": "플러시",
+      "en": "Flush",
+      "th": "ฟลัช"
+    },
+    {
+      "id": "joker_name_011",
+      "kr": "조커 K",
+      "en": "Joker K",
+      "th": "โจ๊กเกอร์ K"
+    },
+    {
+      "id": "joker_name_012",
+      "kr": "조커 M",
+      "en": "Joker M",
+      "th": "โจ๊กเกอร์ M"
+    },
+    {
+      "id": "joker_name_013",
+      "kr": "조커 N",
+      "en": "Joker N",
+      "th": "โจ๊กเกอร์ N"
+    },
+    {
+      "id": "joker_name_014",
+      "kr": "조커 O",
+      "en": "Joker O",
+      "th": "โจ๊กเกอร์ O"
+    },
+    {
+      "id": "joker_name_015",
+      "kr": "배수",
+      "en": "Multiplier",
+      "th": "ตัวคูณ"
+    },
+    {
+      "id": "joker_name_016",
+      "kr": "조커 Q",
+      "en": "Joker Q",
+      "th": "โจ๊กเกอร์ Q"
+    },
+    {
+      "id": "joker_name_017",
+      "kr": "조커 R",
+      "en": "Joker R",
+      "th": "โจ๊กเกอร์ R"
+    },
+    {
+      "id": "joker_name_018",
+      "kr": "조커 S",
+      "en": "Joker S",
+      "th": "โจ๊กเกอร์ S"
+    },
+    {
+      "id": "joker_name_019",
+      "kr": "조커 T",
+      "en": "Joker T",
+      "th": "โจ๊กเกอร์ T"
+    },
+    {
+      "id": "joker_name_020",
+      "kr": "하트",
+      "en": "Heart",
+      "th": "โพธิ์แดง"
+    },
+    {
+      "id": "joker_name_021",
+      "kr": "스페이드",
+      "en": "Spade",
+      "th": "โพดำ"
+    },
+    {
+      "id": "joker_name_022",
+      "kr": "클럽",
+      "en": "Club",
+      "th": "ดอกจิก"
+    },
+    {
+      "id": "joker_name_023",
+      "kr": "하트",
+      "en": "Heart",
+      "th": "โพธิ์แดง"
+    },
+    {
+      "id": "joker_name_024",
+      "kr": "스페이드",
+      "en": "Spade",
+      "th": "โพดำ"
+    },
+    {
+      "id": "joker_name_025",
+      "kr": "클럽",
+      "en": "Club",
+      "th": "ดอกจิก"
+    },
+    {
+      "id": "joker_name_026",
+      "kr": "다이아몬드",
+      "en": "Diamond",
+      "th": "ข้าวหลามตัด"
+    },
+    {
+      "id": "joker_name_027",
+      "kr": "에이스",
+      "en": "Ace",
+      "th": "เอซ"
+    },
+    {
+      "id": "joker_name_028",
+      "kr": "배수",
+      "en": "Multiplier",
+      "th": "ตัวคูณ"
+    },
+    {
+      "id": "joker_name_029",
+      "kr": "조커 AD",
+      "en": "Joker AD",
+      "th": "โจ๊กเกอร์ AD"
+    },
+    {
+      "id": "joker_name_030",
+      "kr": "조커 AE",
+      "en": "Joker AE",
+      "th": "โจ๊กเกอร์ AE"
+    },
+    {
+      "id": "joker_name_031",
+      "kr": "조커 AF",
+      "en": "Joker AF",
+      "th": "โจ๊กเกอร์ AF"
+    },
+    {
+      "id": "joker_name_032",
+      "kr": "스페이드",
+      "en": "Spade",
+      "th": "โพดำ"
+    },
+    {
+      "id": "joker_name_033",
+      "kr": "다이아몬드",
+      "en": "Diamond",
+      "th": "ข้าวหลามตัด"
+    },
+    {
+      "id": "joker_name_034",
+      "kr": "하트",
+      "en": "Heart",
+      "th": "โพธิ์แดง"
+    },
+    {
+      "id": "joker_name_035",
+      "kr": "클럽",
+      "en": "Club",
+      "th": "ดอกจิก"
+    },
+    {
+      "id": "joker_name_036",
+      "kr": "조커 AK",
+      "en": "Joker AK",
+      "th": "โจ๊กเกอร์ AK"
+    },
+    {
+      "id": "joker_name_037",
+      "kr": "조커 AL",
+      "en": "Joker AL",
+      "th": "โจ๊กเกอร์ AL"
+    },
+    {
+      "id": "joker_name_038",
+      "kr": "조커 AM",
+      "en": "Joker AM",
+      "th": "โจ๊กเกอร์ AM"
+    },
+    {
+      "id": "joker_name_039",
+      "kr": "조커 AN",
+      "en": "Joker AN",
+      "th": "โจ๊กเกอร์ AN"
+    },
+    {
+      "id": "joker_name_040",
+      "kr": "도플갱어",
+      "en": "Doppelganger",
+      "th": "ด็อพเพิลแกงเกอร์"
+    },
+    {
+      "id": "joker_name_041",
+      "kr": "버리기",
+      "en": "Discard",
+      "th": "ทิ้งไพ่"
+    },
+    {
+      "id": "joker_name_042",
+      "kr": "핸드",
+      "en": "Hand",
+      "th": "มือ"
+    },
+    {
+      "id": "joker_name_043",
+      "kr": "버리기",
+      "en": "Discard",
+      "th": "ทิ้งไพ่"
+    },
+    {
+      "id": "joker_name_044",
+      "kr": "배수",
+      "en": "Multiplier",
+      "th": "ตัวคูณ"
+    },
+    {
+      "id": "joker_name_045",
+      "kr": "짝수",
+      "en": "Even",
+      "th": "เลขคู่"
+    },
+    {
+      "id": "joker_name_046",
+      "kr": "홀수",
+      "en": "Odd",
+      "th": "เลขคี่"
+    },
+    {
+      "id": "joker_name_047",
+      "kr": "조커 AW",
+      "en": "Joker AW",
+      "th": "โจ๊กเกอร์ AW"
+    },
+    {
+      "id": "joker_name_048",
+      "kr": "다이아몬드",
+      "en": "Diamond",
+      "th": "ข้าวหลามตัด"
+    },
+    {
+      "id": "joker_name_049",
+      "kr": "소수",
+      "en": "Few",
+      "th": "ไพ่น้อย"
+    },
+    {
+      "id": "joker_name_050",
+      "kr": "축약",
+      "en": "Shortcut",
+      "th": "ทางลัด"
+    },
+    {
+      "id": "joker_name_051",
+      "kr": "골드",
+      "en": "Gold",
+      "th": "ทอง"
+    },
+    {
+      "id": "joker_name_052",
+      "kr": "최후",
+      "en": "Finale",
+      "th": "สุดท้าย"
+    },
+    {
+      "id": "joker_name_053",
+      "kr": "종말",
+      "en": "Apocalypse",
+      "th": "วันสิ้นโลก"
+    },
+    {
+      "id": "joker_name_054",
+      "kr": "로열",
+      "en": "Royal",
+      "th": "รอยัล"
+    },
+    {
+      "id": "joker_set_indomitable",
+      "kr": "불굴",
+      "en": "Indomit",
+      "th": "ไม่ยอมแพ้"
+    },
+    {
+      "id": "joker_set_will",
+      "kr": "의지",
+      "en": "Will",
+      "th": "เจตจำนง"
+    },
+    {
+      "id": "joker_set_faith",
+      "kr": "신념",
+      "en": "Faith",
+      "th": "ศรัทธา"
+    },
+    {
+      "id": "joker_desc_001",
+      "kr": "다이아로 득점 시,\n<color=red>+[multvalue]</color> 배수",
+      "en": "Score with Diamonds:\\n<color=red>+[multvalue]</color> mult",
+      "th": "ทำคะแนนด้วยข้าวหลามตัด: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_002",
+      "kr": "내 플레이 카드에 페어가 포함되어있으면 배수 <color=red>+2</color> 한다.",
+      "en": "If played cards include a Pair: <color=red>+2</color> mult",
+      "th": "หากไพ่ที่เล่นมีคู่: ตัวคูณ <color=red>+2</color>"
+    },
+    {
+      "id": "joker_desc_003",
+      "kr": "원페어 <color=red>x[basevalue]</color>배수.\n원페어 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "One Pair <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each One Pair played",
+      "th": "คู่ <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นคู่"
+    },
+    {
+      "id": "joker_desc_004",
+      "kr": "투페어 <color=red>x[basevalue]</color>배수.\n투페어 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "Two Pair <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each Two Pair played",
+      "th": "สองคู่ <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นสองคู่"
+    },
+    {
+      "id": "joker_desc_005",
+      "kr": "트리플 <color=red>x[basevalue]</color>배수.\n트리플 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "Three of a Kind <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each Three of a Kind played",
+      "th": "ตอง <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นตอง"
+    },
+    {
+      "id": "joker_desc_006",
+      "kr": "포카드 <color=red>x[basevalue]</color>배수.\n포카드 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "Four of a Kind <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each Four of a Kind played",
+      "th": "โฟร์การ์ด <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นโฟร์การ์ด"
+    },
+    {
+      "id": "joker_desc_007",
+      "kr": "풀하우스 <color=red>x[basevalue]</color>배수.\n풀하우스 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "Full House <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each Full House played",
+      "th": "ฟูลเฮาส์ <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นฟูลเฮาส์"
+    },
+    {
+      "id": "joker_desc_008",
+      "kr": "하이카드 <color=red>x[basevalue]</color>배수.\n하이카드 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "High Card <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each High Card played",
+      "th": "ไพ่สูง <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นไพ่สูง"
+    },
+    {
+      "id": "joker_desc_009",
+      "kr": "스트레이트 <color=red>x[basevalue]</color>배수.\n스트레이트 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "Straight <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each Straight played",
+      "th": "สเตรท <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นสเตรท"
+    },
+    {
+      "id": "joker_desc_010",
+      "kr": "플러시 <color=red>x[basevalue]</color>배수.\n플러시 플레이 할 때마다 <color=green>x[increase]</color>배수 성장",
+      "en": "Flush <color=red>x[basevalue]</color> mult.\nGrows <color=green>x[increase]</color> mult each Flush played",
+      "th": "ฟลัช <color=red>x[basevalue]</color> ตัวคูณ. เติบโต <color=green>x[increase]</color> ตัวคูณทุกครั้งที่เล่นฟลัช"
+    },
+    {
+      "id": "joker_desc_011",
+      "kr": "핸드플레이 시, 내 핸드에 페어가 남아있으면\n배수 <color=red>3배</color>",
+      "en": "On hand play, if a Pair remains in hand:\n<color=red>x3</color> mult",
+      "th": "เมื่อเล่นมือ หากยังมีคู่ในมือ: ตัวคูณ <color=red>x3</color>"
+    },
+    {
+      "id": "joker_desc_012",
+      "kr": "핸드플레이 시, 내 핸드에 트리플이 남아있으면\n배수 <color=red>6배</color>",
+      "en": "On hand play, if Three of a Kind remains in hand:\n<color=red>x6</color> mult",
+      "th": "เมื่อเล่นมือ หากยังมีตองในมือ: ตัวคูณ <color=red>x6</color>"
+    },
+    {
+      "id": "joker_desc_013",
+      "kr": "핸드플레이 시, 내 핸드에 포 카드가 남아있으면\n배수 <color=red>25배</color>",
+      "en": "On hand play, if Four of a Kind remains in hand:\n<color=red>x25</color> mult",
+      "th": "เมื่อเล่นมือ หากยังมีโฟร์การ์ดในมือ: ตัวคูณ <color=red>x25</color>"
+    },
+    {
+      "id": "joker_desc_014",
+      "kr": "내 패에 스트레이트가 포함되어있으면\n배수 <color=red>+4</color>",
+      "en": "If your hand includes a Straight:\n<color=red>+4</color> mult",
+      "th": "หากมือมีสเตรท: ตัวคูณ <color=red>+4</color>"
+    },
+    {
+      "id": "joker_desc_015",
+      "kr": "<color=red>+[multvalue]</color> 배수",
+      "en": "<color=red>+[multvalue]</color> mult",
+      "th": "ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_016",
+      "kr": "내 패에 트리플이 포함되어있으면\n배수 <color=red>+3</color> 한다",
+      "en": "If your hand includes Three of a Kind:\n<color=red>+3</color> mult",
+      "th": "หากมือมีตอง: ตัวคูณ <color=red>+3</color>"
+    },
+    {
+      "id": "joker_desc_017",
+      "kr": "내 패에 포카드가 포함되어있으면\n배수 <color=red>+5</color> 한다",
+      "en": "If your hand includes Four of a Kind:\n<color=red>+5</color> mult",
+      "th": "หากมือมีโฟร์การ์ด: ตัวคูณ <color=red>+5</color>"
+    },
+    {
+      "id": "joker_desc_018",
+      "kr": "내 패에 풀하우스가 포함되어있으면\n배수 <color=red>+4</color> 한다",
+      "en": "If your hand includes a Full House:\n<color=red>+4</color> mult",
+      "th": "หากมือมีฟูลเฮาส์: ตัวคูณ <color=red>+4</color>"
+    },
+    {
+      "id": "joker_desc_019",
+      "kr": "내 패에 플러시가 포함되어있으면\n배수 <color=red>+4</color> 한다",
+      "en": "If your hand includes a Flush:\n<color=red>+4</color> mult",
+      "th": "หากมือมีฟลัช: ตัวคูณ <color=red>+4</color>"
+    },
+    {
+      "id": "joker_desc_020",
+      "kr": "하트로 득점 시마다\n해당 카드의 칩스가\n <color=#00FFFF>+[chipvalue]</color> 성장",
+      "en": "Each time you score with Hearts,\nthat card gains <color=#00FFFF>+[chipvalue]</color> chips.",
+      "th": "ทุกครั้งที่ทำคะแนนด้วยโพแดง ไพ่นั้นได้ชิป <color=#00FFFF>+[chipvalue]</color>"
+    },
+    {
+      "id": "joker_desc_021",
+      "kr": "스페이드로 득점 시마다\n해당 카드의 칩스가\n <color=#00FFFF>+[chipvalue]</color> 성장",
+      "en": "Each time you score with Spades,\nthat card gains <color=#00FFFF>+[chipvalue]</color> chips.",
+      "th": "ทุกครั้งที่ทำคะแนนด้วยโพดำ ไพ่นั้นได้ชิป <color=#00FFFF>+[chipvalue]</color>"
+    },
+    {
+      "id": "joker_desc_022",
+      "kr": "클럽으로 득점 시마다\n해당 카드의 칩스가\n <color=#00FFFF>+[chipvalue]</color> 성장",
+      "en": "Each time you score with Clubs,\nthat card gains <color=#00FFFF>+[chipvalue]</color> chips.",
+      "th": "ทุกครั้งที่ทำคะแนนด้วยดอกจิก ไพ่นั้นได้ชิป <color=#00FFFF>+[chipvalue]</color>"
+    },
+    {
+      "id": "joker_desc_023",
+      "kr": "핸드플레이 시,\n핸드에 남아있는\n하트 1장당 <color=red>+[multvalue]</color> 배수",
+      "en": "On hand play, per Heart left in hand:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเล่นมือ ต่อโพแดงที่เหลือในมือ 1 ใบ: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_024",
+      "kr": "핸드플레이 시,\n핸드에 남아있는\n스페이드 1장당 <color=red>+[multvalue]</color> 배수",
+      "en": "On hand play, per Spade left in hand:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเล่นมือ ต่อโพดำที่เหลือในมือ 1 ใบ: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_025",
+      "kr": "핸드플레이 시,\n핸드에 남아있는\n클럽 1장당 <color=red>+[multvalue]</color> 배수",
+      "en": "On hand play, per Club left in hand:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเล่นมือ ต่อดอกจิกที่เหลือในมือ 1 ใบ: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_026",
+      "kr": "핸드플레이 시,\n핸드에 남아있는\n다이아 1장당 <color=red>+[multvalue]</color> 배수",
+      "en": "On hand play, per Diamond left in hand:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเล่นมือ ต่อข้าวหลามตัดที่เหลือในมือ 1 ใบ: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_027",
+      "kr": "득점에 사용된\n에이스 한 장당\n<color=red>+[multvalue]</color> 배수",
+      "en": "Per Ace scored:\n<color=red>+[multvalue]</color> mult",
+      "th": "ต่อเอซที่ใช้ทำคะแนน: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_028",
+      "kr": "<color=red>+[basevalue]</color> 배수.\n라운드 종료 시 마다\n<color=#00FFFF>-[decrease]</color> 배수",
+      "en": "<color=red>+[basevalue]</color> mult.\n<color=#00FFFF>-[decrease]</color> mult,\neach round end",
+      "th": "ตัวคูณ <color=red>+[basevalue]</color>. ตัวคูณ <color=#00FFFF>-[decrease]</color> ทุกจบรอบ"
+    },
+    {
+      "id": "joker_desc_029",
+      "kr": "득점한 모든 카드의 득점 시,\n칩스가 <color=green>+3</color> 성장",
+      "en": "All scored cards gain,\n<color=green>+3</color> chips on score",
+      "th": "ไพ่ที่ทำคะแนนทั้งหมดได้ชิป <color=green>+3</color> เมื่อทำคะแนน"
+    },
+    {
+      "id": "joker_desc_030",
+      "kr": "전체 덱에 보유한 7 한장 당 배수가 <color=red>+2</color> 된다",
+      "en": "Per 7 in full deck: <color=red>+2</color> mult",
+      "th": "ต่อเลข 7 ในสำรับทั้งหมด: ตัวคูณ <color=red>+2</color>"
+    },
+    {
+      "id": "joker_desc_031",
+      "kr": "전체 덱카드가 52장 보다 적으면\n그 차이 당 배수가 <color=red>+4</color> 된다",
+      "en": "Per card below 52 in deck: <color=red>+4</color> mult",
+      "th": "ต่อไพ่ที่สำรับมีน้อยกว่า 52 ใบ: ตัวคูณ <color=red>+4</color>"
+    },
+    {
+      "id": "joker_desc_032",
+      "kr": "스페이드로 득점 시 <color=red>x[basevalue]</color>배수\n스페이드 득점 시마다 <color=green>[increase]</color>배수 성장",
+      "en": "Score with Spades: <color=red>x[basevalue]</color> mult.\nGrows <color=green>[increase]</color> mult each Spade scored",
+      "th": "ทำคะแนนด้วยโพดำ: ตัวคูณ <color=red>x[basevalue]</color>. เติบโตตัวคูณ <color=green>[increase]</color> ทุกครั้งที่ทำคะแนนโพดำ"
+    },
+    {
+      "id": "joker_desc_033",
+      "kr": "다이아로 득점 시 <color=red>x[basevalue]</color>배수\n다이아 득점 시마다 <color=green>[increase]</color>배수 성장",
+      "en": "Score with Diamonds:\\n<color=red>x[basevalue]</color> mult.\nGrows <color=green>[increase]</color> mult each Diamond scored",
+      "th": "ทำคะแนนด้วยข้าวหลามตัด: ตัวคูณ <color=red>x[basevalue]</color>. เติบโตตัวคูณ <color=green>[increase]</color> ทุกครั้งที่ทำคะแนนข้าวหลามตัด"
+    },
+    {
+      "id": "joker_desc_034",
+      "kr": "하트로 득점 시 <color=red>x[basevalue]</color>배수\n하트 득점 시마다 <color=green>[increase]</color>배수 성장",
+      "en": "Score with Hearts: <color=red>x[basevalue]</color> mult.\nGrows <color=green>[increase]</color> mult each Heart scored",
+      "th": "ทำคะแนนด้วยโพแดง: ตัวคูณ <color=red>x[basevalue]</color>. เติบโตตัวคูณ <color=green>[increase]</color> ทุกครั้งที่ทำคะแนนโพแดง"
+    },
+    {
+      "id": "joker_desc_035",
+      "kr": "클럽으로 득점 시 <color=red>x[basevalue]</color>배수\n클럽 득점 시마다 <color=green>[increase]</color>배수 성장",
+      "en": "Score with Clubs: <color=red>x[basevalue]</color> mult.\nGrows <color=green>[increase]</color> mult each Club scored",
+      "th": "ทำคะแนนด้วยดอกจิก: ตัวคูณ <color=red>x[basevalue]</color>. เติบโตตัวคูณ <color=green>[increase]</color> ทุกครั้งที่ทำคะแนนดอกจิก"
+    },
+    {
+      "id": "joker_desc_036",
+      "kr": "스페이드 1장으로 플레이 시,\n칩스 <color=red>x20</color> 된다",
+      "en": "Play with 1 Spade:\n<color=red>x20</color> chips",
+      "th": "เล่นด้วยโพดำ 1 ใบ: ชิป <color=red>x20</color>"
+    },
+    {
+      "id": "joker_desc_037",
+      "kr": "다이아 4장으로 득점 시,\n배수 <color=red>x12</color> 된다",
+      "en": "Score with 4 Diamonds:\n<color=red>x12</color> mult",
+      "th": "ทำคะแนนด้วยข้าวหลามตัด 4 ใบ: ตัวคูณ <color=red>x12</color>"
+    },
+    {
+      "id": "joker_desc_038",
+      "kr": "하트 2장으로 득점 시,\n배수 <color=red>x18</color> 된다",
+      "en": "Score with 2 Hearts:\n<color=red>x18</color> mult",
+      "th": "ทำคะแนนด้วยโพแดง 2 ใบ: ตัวคูณ <color=red>x18</color>"
+    },
+    {
+      "id": "joker_desc_039",
+      "kr": "클럽 3장으로 득점 시,\n칩스 <color=red>x15</color> 된다",
+      "en": "Score with 3 Clubs:\n<color=red>x15</color> chips",
+      "th": "ทำคะแนนด้วยดอกจิก 3 ใบ: ชิป <color=red>x15</color>"
+    },
+    {
+      "id": "joker_desc_040",
+      "kr": "상단에 위치한 조커의\n능력 복사\n<color=#FFA500>[copyname]</color>\n라운드 종료 시 15% 확률로\n조커가 파괴됨",
+      "en": "Copies the Joker above\n<color=#FFA500>[copyname]</color>\n15% chance this Joker is destroyed\nat round end",
+      "th": "คัดลอกความสามารถโจ๊กเกอร์ด้านบน\n<color=#FFA500>[copyname]</color>\nจบรอบมีโอกาส 15% ที่โจ๊กเกอร์จะถูกทำลาย"
+    },
+    {
+      "id": "joker_desc_041",
+      "kr": "남은 버리기 1당,\n<color=#00FFFF>+[chipvalue]</color> 칩스",
+      "en": "Per discard remaining:\n<color=#00FFFF>+[chipvalue]</color> chips",
+      "th": "ต่อการทิ้งที่เหลือ: ชิป <color=#00FFFF>+[chipvalue]</color>"
+    },
+    {
+      "id": "joker_desc_042",
+      "kr": "남은 핸드플레이 1당,\n<color=red>+[multvalue]</color> 배수",
+      "en": "Per hand play remaining:\n<color=red>+[multvalue]</color> mult",
+      "th": "ต่อการเล่นมือที่เหลือ: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_043",
+      "kr": "버리기가 0번 남았을 때,\n<color=red>+[multvalue]</color> 배수",
+      "en": "When 0 discards remain:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเหลือการทิ้ง 0 ครั้ง: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_044",
+      "kr": "랜덤으로 <color=red>+0 ~ 20</color> 배수",
+      "en": "Random <color=red>+0 ~ 20</color> mult",
+      "th": "สุ่มตัวคูณ <color=red>+0 ~ 20</color>"
+    },
+    {
+      "id": "joker_desc_045",
+      "kr": "짝수 카드를 낼 때,\n<color=red>+[multvalue]</color> 배수",
+      "en": "When playing even cards:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเล่นไพ่เลขคู่: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_046",
+      "kr": "홀수 카드를 낼 때,\n<color=red>+[multvalue]</color> 배수",
+      "en": "When playing odd cards:\n<color=red>+[multvalue]</color> mult",
+      "th": "เมื่อเล่นไพ่เลขคี่: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_047",
+      "kr": "덱에 남아 있는 카드 1장 당,\n칩스가 <color=red>+2</color> 된다",
+      "en": "Per card left in deck:\n<color=red>+2</color> chips",
+      "th": "ต่อไพ่ที่เหลือในสำรับ: ชิป <color=red>+2</color>"
+    },
+    {
+      "id": "joker_desc_048",
+      "kr": "다이아로 득점마다\n해당 카드의 칩스가\n<color=#00FFFF>+[chipvalue]</color> 성장",
+      "en": "Each time you score with Diamonds,\nthat card gains <color=#00FFFF>+[chipvalue]</color> chips.",
+      "th": "ทุกครั้งที่ทำคะแนนด้วยข้าวหลามตัด ไพ่นั้นได้ชิป <color=#00FFFF>+[chipvalue]</color>"
+    },
+    {
+      "id": "joker_desc_049",
+      "kr": "3장 이하의 카드로\n핸드 플레이 시,\n<color=red>+[multvalue]</color> 배수",
+      "en": "Play a hand with 3 or fewer cards:\n<color=red>+[multvalue]</color> mult",
+      "th": "เล่นมือด้วยไพ่ 3 ใบหรือน้อยกว่า: ตัวคูณ <color=red>+[multvalue]</color>"
+    },
+    {
+      "id": "joker_desc_050",
+      "kr": "5장이 필요한 족보를\n4장으로도 완성할 수 있음\n(스트레이트, 플러시, 스티플, 로티플)",
+      "en": "Complete 5-card hands\\nwith 4 cards(Straight, Flush, Straight Flush, Royal Flush)",
+      "th": "ทำมือ 5 ใบให้สำเร็จด้วย 4 ใบได้ (สเตรท, ฟลัช, สเตรทฟลัช, รอยัลฟลัช)"
+    },
+    {
+      "id": "joker_desc_051",
+      "kr": "보유 골드 1당,\n<color=#00FFFF>+[chipvalue]</color> 칩스",
+      "en": "Per gold held:\n<color=#00FFFF>+[chipvalue]</color> chips",
+      "th": "ต่อทองที่ถือ: ชิป <color=#00FFFF>+[chipvalue]</color>"
+    },
+    {
+      "id": "joker_desc_052",
+      "kr": "남은 핸드플레이가 1일 때,\n최종 배수 <color=red>x2</color>",
+      "en": "When 1 hand play remains:\nfinal mult <color=red>x2</color>",
+      "th": "เมื่อเหลือการเล่นมือ 1 ครั้ง: ตัวคูณสุดท้าย <color=red>x2</color>"
+    },
+    {
+      "id": "joker_desc_053",
+      "kr": "<color=red>+[multvalue]</color> 배수.\n라운드 종료 시 10% 확률로\n조커가 파괴됨",
+      "en": "<color=red>+[multvalue]</color> mult.\n10% chance this Joker is destroyed\nat round end",
+      "th": "ตัวคูณ <color=red>+[multvalue]</color>. จบรอบมีโอกาส 10% ที่โจ๊กเกอร์จะถูกทำลาย"
+    },
+    {
+      "id": "joker_desc_054",
+      "kr": "퀸 또는 킹으로 득점 시,\n<color=red>x2</color> 배수",
+      "en": "Score with Queen or King:\n<color=red>x2</color> mult",
+      "th": "ทำคะแนนด้วยควีนหรือคิง:\nตัวคูณ <color=red>x2</color>"
+    },
+    {
+      "id": "joker_full",
+      "kr": "더 이상 살수 없습니다.",
+      "en": "You cannot buy anymore.",
+      "th": "ซื้อเพิ่มไม่ได้แล้ว"
+    },
+    {
+      "id": "joker_sold_dollar_gain",
+      "kr": "조커를 판매했습니다.\\n골드 {0}을(를) 획득했습니다.",
+      "en": "The joker was sold.\\nYou gained {0} Joker Dollars.",
+      "th": "ขายโจ๊กเกอร์แล้ว\\nได้รับ Joker Dollar {0}"
+    },
+    {
+      "id": "monster_attack_1",
+      "kr": "몬스터의 공격 효과로 버리기가 0이 됩니다",
+      "en": "Monster attack effect: Discards become 0.",
+      "th": "เอฟเฟกต์การโจมตีของมอนสเตอร์ การทิ้งไพ่จะกลายเป็น 0"
+    },
+    {
+      "id": "monster_attack_2",
+      "kr": "핸드플레이가 1이 된다.",
+      "en": "Hand plays become 1.",
+      "th": "การเล่นมือจะถูกตั้งเป็น 1"
+    }
+  ],
+  "taro": [
+    {
+      "id": "taro_name_001",
+      "kr": "타로 A",
+      "en": "Tarot A",
+      "th": "โจ๊กเกอร์ A"
+    },
+    {
+      "id": "taro_name_002",
+      "kr": "타로 B",
+      "en": "Tarot B",
+      "th": "โจ๊กเกอร์ B"
+    },
+    {
+      "id": "taro_name_003",
+      "kr": "타로 C",
+      "en": "Tarot C",
+      "th": "โจ๊กเกอร์ C"
+    },
+    {
+      "id": "taro_name_004",
+      "kr": "타로 D",
+      "en": "Tarot D",
+      "th": "โจ๊กเกอร์์ D"
+    },
+    {
+      "id": "taro_name_005",
+      "kr": "타로 E",
+      "en": "Tarot E",
+      "th": "โจ๊กเกอร์ E"
+    },
+    {
+      "id": "taro_name_006",
+      "kr": "타로 F",
+      "en": "Tarot F",
+      "th": "โจ๊กเกอร์ F"
+    },
+    {
+      "id": "taro_name_007",
+      "kr": "타로 G",
+      "en": "Tarot G",
+      "th": "โจ๊กเกอร์ G"
+    },
+    {
+      "id": "taro_name_008",
+      "kr": "타로 H",
+      "en": "Tarot H",
+      "th": "โจ๊กเกอร์ H"
+    },
+    {
+      "id": "taro_name_009",
+      "kr": "타로 I",
+      "en": "Tarot I",
+      "th": "โจ๊กเกอร์ I"
+    },
+    {
+      "id": "taro_name_010",
+      "kr": "타로 J",
+      "en": "Tarot J",
+      "th": "โจ๊กเกอร์ J"
+    },
+    {
+      "id": "taro_desc_001",
+      "kr": "선택한 3장의 카드의 숫자가 1 상승한다.",
+      "en": "The number of the three selected cards increases by 1.",
+      "th": "จำนวนไพ่ที่เลือกทั้ง 3 ใบจะเพิ่มขึ้น 1 ใบ"
+    },
+    {
+      "id": "taro_desc_002",
+      "kr": "선택한 3장의 카드의 숫자가 2 감소한다.",
+      "en": "The number of the three selected cards is reduced by 2.",
+      "th": "จำนวนไพ่ที่เลือกสามใบลดลง 2 ใบ"
+    },
+    {
+      "id": "taro_desc_003",
+      "kr": "5장의 무작위 카드가 선택되고, 모두 한 가지 무늬로 변경된다.",
+      "en": "Five random cards are selected and all are changed to one suit.",
+      "th": "เลือกไพ่สุ่ม 5 ใบแล้วเปลี่ยนไพ่ทั้งหมดเป็นชุดเดียว"
+    },
+    {
+      "id": "taro_desc_004",
+      "kr": "선택한 2장의 카드가 스페이드로 변경된다.",
+      "en": "The two selected cards are changed to spades.",
+      "th": "ไพ่สองใบที่เลือกจะถูกเปลี่ยนเป็นโพดำ"
+    },
+    {
+      "id": "taro_desc_005",
+      "kr": "선택한 2장의 카드가 다이아로 변경된다.",
+      "en": "The two selected cards are changed to diamonds.",
+      "th": "การ์ดที่เลือกทั้ง 2 ใบจะถูกเปลี่ยนเป็นเพชร"
+    },
+    {
+      "id": "taro_desc_006",
+      "kr": "선택한 2장의 카드가 하트로 변경된다.",
+      "en": "The two selected cards will change into hearts.",
+      "th": "ไพ่ 2 ใบที่ถูกเลือกจะเปลี่ยนเป็นหัวใจ"
+    },
+    {
+      "id": "taro_desc_007",
+      "kr": "선택한 2장의 카드가 클로버로 변경된다.",
+      "en": "The two selected cards are changed into clovers.",
+      "th": "ไพ่สองใบที่ถูกเลือกจะถูกเปลี่ยนเป็นโคลเวอร์"
+    },
+    {
+      "id": "taro_desc_008",
+      "kr": "선택한 2장의 카드를 덱에서 삭제한다.",
+      "en": "Delete 2 selected cards from your deck.",
+      "th": "ลบการ์ดที่เลือก 2 ใบจากสำรับของคุณ"
+    },
+    {
+      "id": "taro_desc_009",
+      "kr": "선택한 3장의 카드 중, 무작위 1장의 카드를 복제한다.",
+      "en": "Duplicate one random card from the three selected cards.",
+      "th": "ทำซ้ำการ์ดแบบสุ่มหนึ่งใบจากการ์ดที่เลือกสามใบ"
+    },
+    {
+      "id": "taro_desc_010",
+      "kr": "무작위 행성 카드를 생성한다.",
+      "en": "Generates a random planet card.",
+      "th": "สร้างการ์ดดาวเคราะห์แบบสุ่ม"
+    }
+  ],
+  "planet": [
+    {
+      "id": "planet_name_001",
+      "kr": "지구",
+      "en": "Earth",
+      "th": "โลก"
+    },
+    {
+      "id": "planet_name_002",
+      "kr": "수성",
+      "en": "Mercury",
+      "th": "ดาวพุธ"
+    },
+    {
+      "id": "planet_name_003",
+      "kr": "천왕성",
+      "en": "Uranus",
+      "th": "ยูเรนัส"
+    },
+    {
+      "id": "planet_name_004",
+      "kr": "금성",
+      "en": "Venus",
+      "th": "ดาวศุกร์"
+    },
+    {
+      "id": "planet_name_005",
+      "kr": "토성",
+      "en": "Saturn",
+      "th": "ดาวเสาร์"
+    },
+    {
+      "id": "planet_name_006",
+      "kr": "목성",
+      "en": "Jupiter",
+      "th": "ดาวพฤหัสบดี"
+    },
+    {
+      "id": "planet_name_007",
+      "kr": "화성",
+      "en": "Mars",
+      "th": "ดาวอังคาร"
+    },
+    {
+      "id": "planet_name_008",
+      "kr": "명왕성",
+      "en": "Pluto",
+      "th": "ดาวพลูโต"
+    },
+    {
+      "id": "planet_name_009",
+      "kr": "해왕성",
+      "en": "Neptune",
+      "th": "เนปจูน"
+    },
+    {
+      "id": "planet_desc_001",
+      "kr": "(Lv.1)<color=#F08D00>하이 카드</color> 을(를)\\n레벨업합니다.\\n <color=red>+1 </color> 배수 및\\n<color=#206BE3>+10 </color> 개의 칩",
+      "en": "(Lv.1) Levels up your <color=#F08D00>High Card</color>. \\n <color=red>+1 </color> multiplier and \\n<color=#206BE3>+10 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>ไพ่สูง</color> ของคุณ \\n <color=#red>+1 </color> ตัวคูณและ \\n<color=#206BE3>+10 </color> ชิป"
+    },
+    {
+      "id": "planet_desc_002",
+      "kr": "(Lv.1)<color=#F08D00>페어</color> 을(를)\\n레벨업합니다.\\n <color=red>+1 </color> 배수 및\\n<color=#206BE3>+15 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Pair</color>. \\n <color=red>+1 </color> multiplier and \\n<color=#206BE3>+15 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>คู่</color> ตัวคูณ \\n <color=#red>+1 </color> และชิป \\n<color=#206BE3>+15 </color>"
+    },
+    {
+      "id": "planet_desc_003",
+      "kr": "(Lv.1)<color=#F08D00>투 페어</color> 을(를)\\n레벨업합니다.\\n <color=red>+1 </color> 배수 및\\n<color=#206BE3>+20 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Two Pair</color>. \\n <color=red>+1 </color> multiplier and \\n<color=#206BE3>+20 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>Two Pair</color> ตัวคูณ \\n <color=#red>+1 </color> และชิป \\n<color=#206BE3>+20 </color>"
+    },
+    {
+      "id": "planet_desc_004",
+      "kr": "(Lv.1)<color=#F08D00>트리플</color> 을(를)\\n레벨업합니다.\\n <color=red>+2 </color> 배수 및\\n<color=#206BE3>+20 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Triple</color>. \\n <color=red>+2 </color> multiplier and \\n<color=#206BE3>+20 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>สามเท่า</color> \\n <color=red>+2 </color> ตัวคูณและ \\n<color=#206BE3>+20 </color> ชิป"
+    },
+    {
+      "id": "planet_desc_005",
+      "kr": "(Lv.1)<color=#F08D00>스트레이트</color> 을(를) 레벨업합니다.\\n <color=red>+3 </color> 배수 및\\n<color=#206BE3>+30 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Straight</color>. \\n <color=red>+3 </color> multiplier and \\n<color=#206BE3>+30 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>ตรง</color> ตัวคูณ \\n <color=red>+3 </color> และชิป \\n<color=#206BE3>+30 </color>"
+    },
+    {
+      "id": "planet_desc_006",
+      "kr": "(Lv.1)<color=#F08D00>플러시</color> 을(를)\\n레벨업합니다.\\n <color=red>+2 </color> 배수 및\\n<color=#206BE3>+15 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Flush</color>. \\n <color=red>+2 </color> multiplier and \\n<color=#206BE3>+15 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>Flush</color> ตัวคูณ \\n <color=#red>+2 </color> และชิป \\n<color=#206BE3>+15 </color>"
+    },
+    {
+      "id": "planet_desc_007",
+      "kr": "(Lv.1)<color=#F08D00>풀하우스</color> 을(를)\\n레벨업합니다.\\n <color=red>+3 </color> 배수 및\\n<color=#206BE3>+15 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Full House</color>. \\n <color=red>+3 </color> multiplier and \\n<color=#206BE3>+15 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>ฟูลเฮาส์</color> \\n <color=red>+3 </color> ตัวคูณและ \\n<color=#206BE3>+15 </color> ชิป"
+    },
+    {
+      "id": "planet_desc_008",
+      "kr": "(Lv.1)<color=#F08D00>포카드</color> 을(를)\\n레벨업합니다.\\n <color=red>+3 </color> 배수 및\\n<color=#206BE3>+30 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Four of a Kind</color>. \\n <color=red>+3 </color> multiplier and \\n<color=#206BE3>+30 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>โฟร์ออฟอะไคนด์</color> ตัวคูณ \\n <color=#red>+3 </color> และชิป \\n<color=#206BE3>+30 </color>"
+    },
+    {
+      "id": "planet_desc_009",
+      "kr": "(Lv.1)<color=#F08D00>스트레이트플러시</color>을(를) 레벨업합니다.\\n <color=red>+4 </color> 배수 및\\n<color=#206BE3>+40 </color> 개의 칩",
+      "en": "(Lv.1) Levels up <color=#F08D00>Straight Flush</color>. \\n <color=red>+4 </color> multiplier and \\n<color=#206BE3>+40 </color> chips",
+      "th": "(Lv.1) เพิ่มเลเวล <color=#F08D00>Straight Flush</color> ตัวคูณ \\n <color=red>+4 </color> และชิป \\n<color=#206BE3>+40 </color>"
+    }
+  ],
+  "monster": [
+    {
+      "id": "MEDUSA",
+      "kr": "눈먼 성녀",
+      "en": "Blind Saint",
+      "th": "เมดูซา"
+    },
+    {
+      "id": "UNDEAD",
+      "kr": "언데드",
+      "en": "Undead",
+      "th": "อันเดด"
+    },
+    {
+      "id": "SCORPION",
+      "kr": "심연의 잠복꾼",
+      "en": "Abyssal Lurker",
+      "th": "แมงป่อง"
+    },
+    {
+      "id": "RAPTOR",
+      "kr": "랩터",
+      "en": "Raptor",
+      "th": "แรปเตอร์"
+    },
+    {
+      "id": "ALTAMIR",
+      "kr": "알타미르",
+      "en": "Altamir",
+      "th": "อัลตามีร์"
+    },
+    {
+      "id": "SPECTER",
+      "kr": "공허의 지배자",
+      "en": "Lord of the Void",
+      "th": "วิญญาณ"
+    },
+    {
+      "id": "SPIDER",
+      "kr": "암흑 파수꾼",
+      "en": "Dark Sentinel",
+      "th": "แมงมุม"
+    },
+    {
+      "id": "ELIZABETH",
+      "kr": "엘리자베스",
+      "en": "Elizabeth",
+      "th": "เอลิซาเบธ"
+    },
+    {
+      "id": "CANNIBALFLOWER",
+      "kr": "식인꽃",
+      "en": "Cannibal Flower",
+      "th": "ดอกไม้กินคน"
+    },
+    {
+      "id": "SKELETON",
+      "kr": "해골",
+      "en": "Skeleton",
+      "th": "โครงกระดูก"
+    },
+    {
+      "id": "SKELETON_ARCHER",
+      "kr": "해골 궁수",
+      "en": "Skeleton Archer",
+      "th": "โครงกระดูกธนู"
+    },
+    {
+      "id": "SKELETON_AXE",
+      "kr": "해골 도끼병",
+      "en": "Skeleton Axe",
+      "th": "โครงกระดูกขวาน"
+    },
+    {
+      "id": "SKELETON_QUIVER",
+      "kr": "해골 화살통",
+      "en": "Skeleton Quiver",
+      "th": "โครงกระดูกศร"
+    },
+    {
+      "id": "SKELETON_SHIELD",
+      "kr": "해골 방패병",
+      "en": "Skeleton Shield",
+      "th": "โครงกระดูกโล่"
+    },
+    {
+      "id": "CLAWBUG",
+      "kr": "집게벌레",
+      "en": "Clawbug",
+      "th": "แมลงก้าม"
+    },
+    {
+      "id": "SKELPRISONER",
+      "kr": "해골 죄수",
+      "en": "Skeleton Prisoner",
+      "th": "โครงกระดูกนักโทษ"
+    },
+    {
+      "id": "GOLEM",
+      "kr": "골렘",
+      "en": "Golem"
+    },
+    {
+      "id": "GOLEMELITE",
+      "kr": "용암 골렘",
+      "en": "Lava Golem"
+    },
+    {
+      "id": "GOLEMBOSS",
+      "kr": "골렘 보스",
+      "en": "Lava Golem"
+    },
+    {
+      "id": "BUGFLY",
+      "kr": "날벌레",
+      "en": "Bug Fly",
+      "th": "แมลงบิน"
+    },
+    {
+      "id": "ALTAMIR_02",
+      "kr": "알타미르",
+      "en": "Altamir",
+      "th": "อัลตามีร์"
+    },
+    {
+      "id": "CANNIBALFLOWER_002",
+      "kr": "식인꽃",
+      "en": "Cannibal Flower",
+      "th": "ดอกไม้กินคน"
+    }
+  ],
+  "evilseed": [
+    {
+      "id": "evilseed_name_A",
+      "kr": "악의씨앗 (증폭)",
+      "en": "Evil Seed (Amplified)",
+      "th": "เมล็ดแห่งความชั่ว A"
+    },
+    {
+      "id": "evilseed_desc_A",
+      "kr": "핸드 플레이 <color=#00FF00>+2</color>",
+      "en": "Hand plays <color=#00FF00>+2</color>",
+      "th": "เล่นมือ <color=#00FF00>+2</color>"
+    },
+    {
+      "id": "evilseed_name_B",
+      "kr": "악의씨앗 (불굴)",
+      "en": "Evil Seed (Indomitable)",
+      "th": "เมล็ดแห่งความชั่ว B"
+    },
+    {
+      "id": "evilseed_desc_B",
+      "kr": "버리기 <color=#00FF00>+3</color>",
+      "en": "Discards <color=#00FF00>+3</color>",
+      "th": "ทิ้งไพ่ <color=#00FF00>+3</color>"
+    },
+    {
+      "id": "evilseed_name_C",
+      "kr": "악의씨앗 (착취)",
+      "en": "Evil Seed (Exploitation)",
+      "th": "เมล็ดแห่งความชั่ว C"
+    },
+    {
+      "id": "evilseed_desc_C",
+      "kr": "칩 <color=#00FF00>+50</color>",
+      "en": "Chips <color=#00FF00>+50</color>",
+      "th": "ชิป <color=#00FF00>+50</color>"
+    },
+    {
+      "id": "evilseed_name_D",
+      "kr": "악의씨앗 (의연)",
+      "en": "Evil Seed (Steadfast)",
+      "th": "เมล็ดแห่งความชั่ว D"
+    },
+    {
+      "id": "evilseed_desc_D",
+      "kr": "버리기 <color=#00FF00>+4</color>\n핸드 플레이 <color=#FFA500>-1</color>",
+      "en": "Discards <color=#00FF00>+4</color>,\nHand plays <color=#FFA500>-1</color>",
+      "th": "เล่นมือ <color=#FFA500>-1</color>, ทิ้งไพ่ <color=#00FF00>+4</color>"
+    },
+    {
+      "id": "evilseed_name_E",
+      "kr": "악의씨앗 (자만)",
+      "en": "Evil Seed (Arrogance)",
+      "th": "เมล็ดแห่งความชั่ว E"
+    },
+    {
+      "id": "evilseed_desc_E",
+      "kr": "핸드 플레이 <color=#00FF00>+3</color>\n버리기 <color=#FFA500>-1</color>",
+      "en": "Hand plays <color=#00FF00>+3</color>,\nDiscards <color=#FFA500>-1</color>",
+      "th": "เล่นมือ <color=#00FF00>+3</color>, ทิ้งไพ่ <color=#FFA500>-1</color>"
+    },
+    {
+      "id": "evilseed_name_F",
+      "kr": "악의씨앗 (유혈)",
+      "en": "Evil Seed (Bloodletting)",
+      "th": "เมล็ดแห่งความชั่ว F"
+    },
+    {
+      "id": "evilseed_desc_F",
+      "kr": "칩 <color=#00FF00>+100</color>\n플레이 시 골드 <color=#FFA500>-1</color>",
+      "en": "Chips <color=#00FF00>+100</color>,\nOn play: Gold <color=#FFA500>-1</color>",
+      "th": "เมื่อเล่น: ทอง <color=#FFA500>-1</color>, ชิป <color=#00FF00>+100</color>"
+    },
+    {
+      "id": "evilseed_name_G",
+      "kr": "악의씨앗 (제압)",
+      "en": "Evil Seed (Suppression)",
+      "th": "เมล็ดแห่งความชั่ว G"
+    },
+    {
+      "id": "evilseed_desc_G",
+      "kr": "제출 패에 스페이드 포함 시\\n배수 <color=#00FF00>+5</color>",
+      "en": "Played hand contains a Spade\\nMultiplier <color=#00FF00>+5</color>",
+      "th": "ตัวคูณ <color=#00FF00>+5</color> หากมีโพดำ ไม่มีผลหากมีดอกอื่น"
+    },
+    {
+      "id": "evilseed_name_H",
+      "kr": "악의씨앗 (소멸)",
+      "en": "Evil Seed (Annihilation)",
+      "th": "เมล็ดแห่งความชั่ว H"
+    },
+    {
+      "id": "evilseed_desc_H",
+      "kr": "제출 패에 클럽 포함 시\\n배수 <color=#00FF00>+5</color>",
+      "en": "Played hand contains a Club\\nMultiplier <color=#00FF00>+5</color>",
+      "th": "ตัวคูณ <color=#00FF00>+5</color> หากมีดอกจิก ไม่มีผลหากมีดอกอื่น"
+    },
+    {
+      "id": "evilseed_name_I",
+      "kr": "악의씨앗 (통제)",
+      "en": "Evil Seed (Control)",
+      "th": "เมล็ดแห่งความชั่ว I"
+    },
+    {
+      "id": "evilseed_desc_I",
+      "kr": "제출 패에 다이아 포함 시\\n배수 <color=#00FF00>+5</color>",
+      "en": "Played hand contains a Diamond\\nMultiplier <color=#00FF00>+5</color>",
+      "th": "ตัวคูณ <color=#00FF00>+5</color> หากมีข้าวหลามตัด ไม่มีผลหากมีดอกอื่น"
+    },
+    {
+      "id": "evilseed_name_J",
+      "kr": "악의씨앗 (교활)",
+      "en": "Evil Seed (Cunning)",
+      "th": "เมล็ดแห่งความชั่ว J"
+    },
+    {
+      "id": "evilseed_desc_J",
+      "kr": "제출 패에 하트 포함 시\\n배수 <color=#00FF00>+5</color>",
+      "en": "Played hand contains a Heart\\nMultiplier <color=#00FF00>+5</color>",
+      "th": "ตัวคูณ <color=#00FF00>+5</color> หากมีหัวใจ ไม่มีผลหากมีดอกอื่น"
+    },
+    {
+      "id": "evilseed_name_K",
+      "kr": "악의씨앗 (지배)",
+      "en": "Evil Seed (Domination)",
+      "th": "เมล็ดแห่งความชั่ว K"
+    },
+    {
+      "id": "evilseed_desc_K",
+      "kr": "조커 슬롯 <color=#00FF00>+1</color>\n핸드 플레이 <color=#FFA500>-2</color>\n<color=#FF0000>씨앗이 끝나면 핸드플레이가 복구됩니다. 조커는 유지되나 6번째를 팔면 슬롯이 잠깁니다.</color>",
+      "en": "Joker slot <color=#00FF00>+1</color>.\nHand plays <color=#FFA500>-2</color>.\n<color=#FF0000>When the seed ends, Hand plays are restored. Jokers stay, but selling the 6th locks the slot.</color>",
+      "th": "ช่องโจ๊กเกอร์ <color=#00FF00>+1</color>, เล่นมือ <color=#FFA500>-2</color>\n<color=#FF0000>เมื่อเมล็ดหมด เล่นมือจะกลับคืน โจ๊กเกอร์ยังอยู่ แต่ขายช่องที่ 6 แล้วช่องจะถูกล็อก</color>"
+    },
+    {
+      "id": "evilseed_name_L",
+      "kr": "악의씨앗 (각성)",
+      "en": "Evil Seed (Awakening)",
+      "th": "เมล็ดแห่งความชั่ว L"
+    },
+    {
+      "id": "evilseed_desc_L",
+      "kr": "칩 <color=#00FF00>+200</color>\n플레이 시 골드 <color=#FFA500>-2</color>",
+      "en": "Chips <color=#00FF00>+200</color>\nOn play: Gold <color=#FFA500>-2</color>",
+      "th": "เมื่อเล่น: ทอง <color=#FFA500>-2</color>, ชิป <color=#00FF00>+200</color>"
+    }
+  ],
+  "tutorial": [
+    {
+      "id": "tutorial_message_001",
+      "kr": "여명기사단에 온 것을 환영한다.\\n나는 집행관, 바슈.\\n지금부터 '퇴마의식'을 가르쳐주마.",
+      "en": "Welcome to the Dawn Order.\\nI am Executor Vash.\\nFrom now on, I will teach you the Rite of Exorcism."
+    },
+    {
+      "id": "tutorial_message_002",
+      "kr": "카드로 공격 포인트를 모아야\\n비로소 퇴마의식을 펼칠 수 있다.",
+      "en": "You must build up Attack Points with cards\\nbefore you can perform the Rite of Exorcism."
+    },
+    {
+      "id": "tutorial_message_003",
+      "kr": "연습용 골렘을 소환했다.\\n먼저 놈의 체력부터 확인해라.",
+      "en": "I have summoned a training golem.\\nFirst, check its HP."
+    },
+    {
+      "id": "tutorial_message_004",
+      "kr": "칩에 배수를 곱한 값이\\n그대로 공격력이 된다.",
+      "en": "Your attack power is calculated\\nby multiplying Chips by Mult."
+    },
+    {
+      "id": "tutorial_message_005",
+      "kr": "런 인포에서 족보 레벨을\\n언제든 확인할 수 있다.",
+      "en": "You can check your hand levels\\nat any time in Run Info."
+    },
+    {
+      "id": "tutorial_message_006",
+      "kr": "상급 악마를 퇴치할 때마다\\n다이아를 얻는다.",
+      "en": "Gain Diamonds each time you defeat an Elite Demon."
+    },
+    {
+      "id": "tutorial_message_007",
+      "kr": "쓰러뜨린 악마는 골드를 남긴다.\\n빠짐없이 챙겨라.",
+      "en": "Defeated demons leave behind Gold.\\nCollect every last coin."
+    },
+    {
+      "id": "tutorial_message_008",
+      "kr": "이제 카드를 골라\\n직접 퇴마의식을 시작할수 있다.",
+      "en": "Now choose your cards\\nand begin the Rite of Exorcism yourself."
+    },
+    {
+      "id": "tutorial_message_009",
+      "kr": "자, 카드 5장을 골라\\n핸드플레이로 공격해봐라",
+      "en": "Now, select five cards\\nand attack using Hand Play."
+    },
+    {
+      "id": "tutorial_message_010",
+      "kr": "패가 마음에 안 들면\\n버리고 새로 받을 수도 있다.",
+      "en": "If you don't like your hand,\\nyou can discard it and draw a new one."
+    },
+    {
+      "id": "tutorial_message_011",
+      "kr": "단, 핸드플레이와 버리기는\\n횟수가 정해져 있으니 신중해라.",
+      "en": "However, Hand Plays and Discards\\nare limited, so use them wisely."
+    },
+    {
+      "id": "tutorial_message_012",
+      "kr": "공격 포인트 50을 넘기면\\n퇴마의식은 성공이다.\\n행운을 빈다.",
+      "en": "Once your Attack Points exceed 50,\\nthe Rite of Exorcism will succeed.\\nGood luck."
+    },
+    {
+      "id": "tutorial_message_013",
+      "kr": "정규 악마들 틈에 '엘리트'가 섞여 있다.\\n일반 악마와는 격이 다르지.",
+      "en": "Elite Demons are mixed in\\namong the regular demons.\\nThey are far stronger than ordinary foes."
+    },
+    {
+      "id": "tutorial_message_014",
+      "kr": "이 진행도가 차오를수록\\n더 강한 적과 마주하게 된다.",
+      "en": "As this progress gauge fills,\\nyou will face increasingly powerful enemies."
+    },
+    {
+      "id": "tutorial_message_015",
+      "kr": "엘리트는 네 행동에 제약을 건다.\\n걸린 패널티를 확인하고 싸워라.",
+      "en": "Elites impose restrictions on your actions.\\nCheck the penalties before fighting."
+    },
+    {
+      "id": "tutorial_message_016",
+      "kr": "훌륭하다, 보스를 퇴마했군.",
+      "en": "Well done. You have exorcised the boss."
+    },
+    {
+      "id": "tutorial_message_017",
+      "kr": "이 층의 주인, 보스가 모습을 드러냈다.\\n방심하면 당한다.",
+      "en": "The master of this floor, the boss, has appeared.\\nLet your guard down, and you will fall."
+    },
+    {
+      "id": "tutorial_message_018",
+      "kr": "보스는 제약을 한꺼번에 여럿 건다.\\n걸린 패널티를 모두 감안해 덤벼라.",
+      "en": "Bosses impose multiple restrictions at once.\\nKeep every penalty in mind before you fight."
+    },
+    {
+      "id": "tutorial_message_020",
+      "kr": "퇴마의식을 마쳤으니 잠시 숨을 골라라.\\n이곳에선 골드로 힘을 사들일 수 있다.",
+      "en": "The rite is done. Catch your breath.\\nHere, you may buy power with Gold."
+    },
+    {
+      "id": "tutorial_message_021",
+      "kr": "진열품이 마음에 안 들거든\\n골드를 사용해 새 물건을 뽑을 수 있다.",
+      "en": "If you don't like what's on display,\\nyou can spend Gold to get new items."
+    },
+    {
+      "id": "tutorial_message_022",
+      "kr": "카드는 몸에 지니는 것만으로\\n네 퇴마의식에 힘을 더하는 술법이다.",
+      "en": "A 'Card' is a charm that empowers\\nyour rite simply by being carried."
+    },
+    {
+      "id": "tutorial_message_023",
+      "kr": "허나 몸에 새길 수 있는 조커의 수는\\n정해져 있으니 신중히 골라라.",
+      "en": "But the number of Jokers you may bear\\nis limited, so choose with care."
+    },
+    {
+      "id": "tutorial_message_024",
+      "kr": "'악마의 씨앗'은 금단의 힘이다.\\n큰 이득을 주는 대신 반드시 대가를 요구하지.",
+      "en": "The 'Demon Seed' is forbidden power.\\nIt grants great gain, but always demands a price."
+    },
+    {
+      "id": "tutorial_message_025",
+      "kr": "씨앗은 한 번에 하나만 심을 수 있고\\n정해진 판수가 지나면 스스로 시들어 사라진다.",
+      "en": "Only one seed may be planted at a time,\\nand it withers away after a set number of rounds."
+    },
+    {
+      "id": "tutorial_message_026",
+      "kr": "무운을 빈다.",
+      "en": "Good luck."
+    },
+    {
+      "id": "tutorial_message_027",
+      "kr": "카드에는 저마다 문양이 새겨져 있다.\\n불굴, 의지, 신념 셋 중 하나지.",
+      "en": "Each card bears a sigil.\\nOne of three: Indomitable, Will, or Faith."
+    },
+    {
+      "id": "tutorial_message_028",
+      "kr": "같은 문양을 셋 모으면 힘이 깨어나고 \\n넷을 모으면 그 힘이 완성된다.  ",
+      "en": "Gather three of the same sigil to awaken its power.\\nGather four, and that power becomes complete."
+    },
+    {
+      "id": "tutorial_message_029",
+      "kr": "깨어난 카드는 빛을 낸다. \\n무엇을 모을지는 그대의 선택이다.      ",
+      "en": "Awakened cards will glow.\\nWhich sigil you choose to gather is up to you."
+    },
+    {
+      "id": "tutorial_message_030",
+      "kr": "사냥에서 얻은 깨달음은 사라지지 않는다. 금단의 서고에 새겨지지.",
+      "en": "The wisdom gained from the hunt is never lost.\\nIt is etched into the Forbidden Library."
+    },
+    {
+      "id": "tutorial_message_031",
+      "kr": "서고에서는 다이아와 루비로 족보의 힘과 시작 조건을 영구히 끌어올린다.",
+      "en": "There, Diamonds and Rubies raise your hands\\nand your starting conditions — permanently."
+    },
+    {
+      "id": "tutorial_message_032",
+      "kr": "한 번의 사냥이 끝이 아니다. 서고를 채울수록 다음 사냥이 수월해진다.",
+      "en": "One hunt is not the end.\\nThe fuller the Library, the easier the next."
+    },
+    {
+      "id": "tutorial_message_034",
+      "kr": "적의 머리 위에 표식이 떠올랐군.\\n지금 이 손패면 놈을 끝낼 수 있다는 뜻이다.",
+      "en": "A mark has risen above the demon.\\nThis hand is enough to finish it."
+    },
+    {
+      "id": "tutorial_message_035",
+      "kr": "다이아랑 루비가 부족하면 투기장에서 보충할 수 있으니 이용하기 바란다.",
+      "en": "If you're running low on Diamonds or Rubies, you can replenish them in the Arena."
+    },
+    {
+      "id": "tutorial_message_036",
+      "kr": "지금부터 퇴마의식에 대해 알려주겠다.",
+      "en": "I will now explain the exorcism ritual."
+    },
+    {
+      "id": "tutorial_message_037",
+      "kr": "이제 의식을 시작한다.",
+      "en": "Now, let us begin the ritual."
+    },
+    {
+      "id": "tutorial_message_038",
+      "kr": "내가 직접 보여주마. 잘 보아라.",
+      "en": "I'll show you myself. Watch closely."
+    },
+    {
+      "id": "tutorial_message_039",
+      "kr": "이어지는 다섯 장, '로얄 스트레이트'다.\\n족보가 높을수록 공격 포인트가 커진다.",
+      "en": "Five cards in sequence—a \"Royal Straight.\"\\nThe higher the poker hand, the greater the Attack Points."
+    }
+  ],
+  "hero": [
+    {
+      "id": "paladin_info",
+      "kr": "넘치는 자존심으로 힘과 은혜를 다루어 왔고, 명예로운 영광의 길을 택했다. ",
+      "en": "With boundless pride, they commanded power and grace, embracing the honorable path of glory.",
+      "th": "paladin_info"
+    },
+    {
+      "id": "barbarian_info",
+      "kr": "끝없는 분노와 강인한 육체로 전장을 짓밟으며, 피와 강철로 자신의 길을 개척해 왔다.",
+      "en": "Driven by endless fury and unyielding strength, they carved their path through blood and steel.",
+      "th": "barbarian_info"
+    },
+    {
+      "id": "grand_master_info",
+      "kr": "굳건한 신념과 숙련된 검술로 수많은 전장을 이끌었으며, 명예와 승리를 위해 검을 들었다.",
+      "en": "With unwavering conviction and masterful swordsmanship, they led countless battles, raising their blade for honor and victory.",
+      "th": "grand_master_info"
+    },
+    {
+      "id": "mage_info",
+      "kr": "none",
+      "en": "none",
+      "th": "none"
+    },
+    {
+      "id": "archer_info",
+      "kr": "none",
+      "en": "none",
+      "th": "none"
+    },
+    {
+      "id": "starlight_mage_info",
+      "kr": "none",
+      "en": "none",
+      "th": "none"
+    }
+  ],
+  "server_error": [
+    {
+      "id": "UNAUTHORIZED",
+      "kr": "로그인이 필요합니다.",
+      "en": "Please sign in.",
+      "th": "กรุณาเข้าสู่ระบบ"
+    },
+    {
+      "id": "INTERNAL_SERVER_ERROR",
+      "kr": "서버 오류가 발생했습니다. 잠시 후 다시 시도해 주세요.",
+      "en": "A server error occurred. Please try again later.",
+      "th": "เกิดข้อผิดพลาดของเซิร์ฟเวอร์ กรุณาลองอีกครั้งในภายหลัง"
+    },
+    {
+      "id": "INVALID_REQUEST",
+      "kr": "잘못된 요청입니다.",
+      "en": "Invalid request.",
+      "th": "คำขอไม่ถูกต้อง"
+    },
+    {
+      "id": "FORBIDDEN",
+      "kr": "권한이 없습니다.",
+      "en": "You do not have permission.",
+      "th": "คุณไม่มีสิทธิ์"
+    },
+    {
+      "id": "NOT_FOUND",
+      "kr": "데이터를 찾을 수 없습니다.",
+      "en": "Data not found.",
+      "th": "ไม่พบข้อมูล"
+    },
+    {
+      "id": "RATE_LIMITED",
+      "kr": "요청이 너무 많습니다. 잠시 후 다시 시도해 주세요.",
+      "en": "Too many requests. Please try again later.",
+      "th": "คำขอมากเกินไป กรุณาลองอีกครั้งในภายหลัง"
+    },
+    {
+      "id": "INVALID_ACTION",
+      "kr": "처리할 수 없는 행동입니다.",
+      "en": "This action cannot be processed.",
+      "th": "ไม่สามารถดำเนินการนี้ได้"
+    },
+    {
+      "id": "PROGRESS_DIAMOND_INVALID",
+      "kr": "다이아 값이 올바르지 않습니다.",
+      "en": "Diamond value is invalid.",
+      "th": "ค่าเพชรไม่ถูกต้อง"
+    },
+    {
+      "id": "PROGRESS_RESET_POINTS_INVALID",
+      "kr": "리셋 포인트 값이 올바르지 않습니다.",
+      "en": "Reset point value is invalid.",
+      "th": "ค่าแต้มรีเซ็ตไม่ถูกต้อง"
+    },
+    {
+      "id": "ALREADY_UNLOCKED",
+      "kr": "이미 해금된 항목입니다.",
+      "en": "This is already unlocked.",
+      "th": "ปลดล็อกแล้ว"
+    },
+    {
+      "id": "NOT_ENOUGH_DIAMOND",
+      "kr": "다이아가 부족합니다.",
+      "en": "Not enough diamonds.",
+      "th": "เพชรไม่พอ"
+    },
+    {
+      "id": "RELIC_LOCKED",
+      "kr": "잠긴 유물입니다.",
+      "en": "This relic is locked.",
+      "th": "เรลิกถูกล็อก"
+    },
+    {
+      "id": "INVALID_COST",
+      "kr": "비용이 올바르지 않습니다.",
+      "en": "Cost is invalid.",
+      "th": "ค่าใช้จ่ายไม่ถูกต้อง"
+    },
+    {
+      "id": "PROGRESS_VALUE_OUT_OF_RANGE",
+      "kr": "진행 값이 범위를 벗어났습니다.",
+      "en": "Progress value is out of range.",
+      "th": "ค่าความคืบหน้าเกินช่วงที่กำหนด"
+    },
+    {
+      "id": "NOT_ENOUGH_RESET_POINTS",
+      "kr": "리셋 포인트가 부족합니다.",
+      "en": "Not enough reset points.",
+      "th": "แต้มรีเซ็ตไม่พอ"
+    },
+    {
+      "id": "NOTHING_TO_RESET",
+      "kr": "초기화할 항목이 없습니다.",
+      "en": "There is nothing to reset.",
+      "th": "ไม่มีสิ่งที่ต้องรีเซ็ต"
+    },
+    {
+      "id": "RUN_STATE_MISMATCH",
+      "kr": "런 상태가 서버와 맞지 않습니다.",
+      "en": "Run state does not match the server.",
+      "th": "สถานะรันไม่ตรงกับเซิร์ฟเวอร์"
+    },
+    {
+      "id": "NOT_BOSS_WAVE",
+      "kr": "보스 웨이브가 아닙니다.",
+      "en": "This is not a boss wave.",
+      "th": "ไม่ใช่เวฟบอส"
+    },
+    {
+      "id": "BOSS_NOT_ACTIVE",
+      "kr": "보스가 활성화되어 있지 않습니다.",
+      "en": "The boss is not active.",
+      "th": "บอสยังไม่ทำงาน"
+    },
+    {
+      "id": "CHAPTER_LOCKED",
+      "kr": "아직 해금되지 않은 챕터입니다.",
+      "en": "This chapter is locked.",
+      "th": "บทนี้ยังไม่ปลดล็อก"
+    },
+    {
+      "id": "SOCIAL_LINK_NOT_ALLOWED",
+      "kr": "소셜 계정을 연동할 수 없습니다.",
+      "en": "Social account linking is not allowed.",
+      "th": "ไม่สามารถเชื่อมบัญชีโซเชียลได้"
+    },
+    {
+      "id": "SOCIAL_ACCOUNT_ALREADY_LINKED",
+      "kr": "이미 연동된 소셜 계정입니다.",
+      "en": "This social account is already linked.",
+      "th": "บัญชีโซเชียลนี้ถูกเชื่อมแล้ว"
+    },
+    {
+      "id": "DUPLICATE_LOGIN",
+      "kr": "다른 기기에서 로그인되어 연결이 끊겼습니다.",
+      "en": "Signed in on another device. Connection lost.",
+      "th": "เข้าสู่ระบบจากอุปกรณ์อื่น การเชื่อมต่อถูกตัด"
+    },
+    {
+      "id": "GOOGLE_AUTH_FAILED",
+      "kr": "구글 인증에 실패했습니다.",
+      "en": "Google authentication failed.",
+      "th": "การยืนยันตัวตน Google ล้มเหลว"
+    },
+    {
+      "id": "GOOGLE_OAUTH_NOT_CONFIGURED",
+      "kr": "구글 로그인이 설정되지 않았습니다.",
+      "en": "Google login is not configured.",
+      "th": "ยังไม่ได้ตั้งค่าการเข้าสู่ระบบ Google"
+    },
+    {
+      "id": "NETWORK_ERROR",
+      "kr": "네트워크 오류가 발생했습니다. 다시 시도해 주세요.",
+      "en": "A network error occurred. Please try again.",
+      "th": "เกิดข้อผิดพลาดของเครือข่าย กรุณาลองอีกครั้ง"
+    },
+    {
+      "id": "EMPTY_RESPONSE",
+      "kr": "서버 응답이 없습니다. 다시 시도해 주세요.",
+      "en": "No response from the server. Please try again.",
+      "th": "ไม่มีการตอบกลับจากเซิร์ฟเวอร์ กรุณาลองอีกครั้ง"
+    },
+    {
+      "id": "CLIENT_BOOTSTRAP_FAILED",
+      "kr": "서버에 연결하지 못했습니다. 다시 시도해 주세요.",
+      "en": "Could not connect to the server. Please try again.",
+      "th": "เชื่อมต่อเซิร์ฟเวอร์ไม่สำเร็จ กรุณาลองอีกครั้ง"
+    },
+    {
+      "id": "LOGIN_FAILED",
+      "kr": "로그인에 실패했습니다. 다시 시도해 주세요.",
+      "en": "Sign-in failed. Please try again.",
+      "th": "เข้าสู่ระบบไม่สำเร็จ กรุณาลองอีกครั้ง"
+    },
+    {
+      "id": "GET_ME_FAILED",
+      "kr": "유저 정보를 불러오지 못했습니다. 다시 시도해 주세요.",
+      "en": "Could not load user data. Please try again.",
+      "th": "โหลดข้อมูลผู้ใช้ไม่สำเร็จ กรุณาลองอีกครั้ง"
+    },
+    {
+      "id": "SERVER_MAINTENANCE",
+      "kr": "서버 점검 중입니다. 잠시 후 다시 시도해 주세요.",
+      "en": "The server is under maintenance. Please try again later.",
+      "th": "เซิร์ฟเวอร์กำลังปิดปรับปรุง กรุณาลองอีกครั้งในภายหลัง"
+    },
+    {
+      "id": "HARD_UPDATE",
+      "kr": "업데이트가 필요합니다. 스토어에서 최신 버전을 설치해 주세요.",
+      "en": "An update is required. Please install the latest version from the store.",
+      "th": "จำเป็นต้องอัปเดต กรุณาติดตั้งเวอร์ชันล่าสุดจากสโตร์"
+    },
+    {
+      "id": "ARENA_DAILY_LIMIT",
+      "kr": "오늘의 아레나 입장 횟수를 모두 사용했습니다.",
+      "en": "You have used all arena entries for today.",
+      "th": "คุณใช้สิทธิ์เข้าอารีน่าวันนี้ครบแล้ว"
+    },
+    {
+      "id": "DAILY_NOT_COMPLETE",
+      "kr": "아직 완료하지 않은 일일 미션입니다.",
+      "en": "This daily mission is not complete yet.",
+      "th": "ภารกิจรายวันยังไม่สำเร็จ"
+    }
+  ],
+  "skill": [
+    {
+      "id": "upgrade_hand_high_card",
+      "kr": "하이카드 점수 증가 {0}%",
+      "en": "High Card Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_one_pair",
+      "kr": "원페어 점수 증가 {0}%",
+      "en": "One Pair Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_two_pair",
+      "kr": "투페어 점수 증가 {0}%",
+      "en": "Two Pair Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_three_of_a_kind",
+      "kr": "트리플 점수 증가 {0}%",
+      "en": "Three of a Kind Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_straight",
+      "kr": "스트레이트 점수 증가 {0}%",
+      "en": "Straight Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_flush",
+      "kr": "플러시 점수 증가 {0}%",
+      "en": "Flush Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_full_house",
+      "kr": "풀하우스 점수 증가 {0}%",
+      "en": "Full House Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_four_of_a_kind",
+      "kr": "포카드 점수 증가 {0}%",
+      "en": "Four of a Kind Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_straight_flush",
+      "kr": "스트레이트 플러시 점수 증가 {0}%",
+      "en": "Straight Flush Score {0}%"
+    },
+    {
+      "id": "upgrade_hand_royal_flush",
+      "kr": "로열 스트레이트 플러시 점수 증가 {0}%",
+      "en": "Royal Flush Score {0}%"
+    },
+    {
+      "id": "upgrade_base_chip",
+      "kr": "기본 칩 {0}",
+      "en": "Base Chips {0}"
+    },
+    {
+      "id": "upgrade_base_multiplier",
+      "kr": "기본 배수 {0}",
+      "en": "Base Multiplier {0}"
+    },
+    {
+      "id": "upgrade_start_gold",
+      "kr": "게임 시작 골드 {0}",
+      "en": "Starting Gold {0}"
+    },
+    {
+      "id": "upgrade_round_end_gold",
+      "kr": "라운드 종료 시 골드 {0}",
+      "en": "Gold at End of Round {0}"
+    },
+    {
+      "id": "upgrade_discard",
+      "kr": "버리기 {0}",
+      "en": "Discards {0}"
+    },
+    {
+      "id": "upgrade_hand_play",
+      "kr": "핸드 플레이 {0}",
+      "en": "Hands {0}"
+    },
+    {
+      "id": "upgrade_final_score",
+      "kr": "최종 점수 X{0}",
+      "en": "Final Score X{0}"
+    },
+    {
+      "id": "upgrade_free_reroll",
+      "kr": "무료 리롤 {0}",
+      "en": "Free Rerolls {0}"
+    },
+    {
+      "id": "upgrade_joker_price",
+      "kr": "조커 구매 가격 {0}",
+      "en": "Joker Purchase Price {0}"
+    },
+    {
+      "id": "upgrade_joker_levelup_cost",
+      "kr": "조커 레벨업 비용 감소 {0}%",
+      "en": "Joker Level-Up Cost {0}%"
+    },
+    {
+      "id": "upgrade_shop_joker_count",
+      "kr": "상점 조커 등장 개수 {0}",
+      "en": "Jokers in Shop {0}"
+    },
+    {
+      "id": "upgrade_seed_duration",
+      "kr": "씨앗 지속 횟수 {0}",
+      "en": "Seed Duration {0}"
+    },
+    {
+      "id": "upgrade_seed_price",
+      "kr": "씨앗 구매 가격 {0}",
+      "en": "Seed Purchase Price {0}"
+    },
+    {
+      "id": "upgrade_seed_slot",
+      "kr": "씨앗 슬롯 {0}",
+      "en": "Seed Slots {0}"
+    },
+    {
+      "id": "forbidden_library_unlock",
+      "kr": "금단의 서고 개방",
+      "en": "Unlock the Forbidden Library"
+    },
+    {
+      "id": "level",
+      "kr": "레벨",
+      "en": "Level"
+    },
+    {
+      "id": "forbidden_archive",
+      "kr": "금단의 서고",
+      "en": "Forbidden Archive"
+    },
+    {
+      "id": "lone_survivor",
+      "kr": "고독한 생존자",
+      "en": "Lone Survivor"
+    },
+    {
+      "id": "twisted_pair",
+      "kr": "뒤틀린 한 쌍",
+      "en": "Twisted Pair"
+    },
+    {
+      "id": "double_bind",
+      "kr": "이중 속박",
+      "en": "Double Bind"
+    },
+    {
+      "id": "threefold_oath",
+      "kr": "삼중 맹세",
+      "en": "Threefold Oath"
+    },
+    {
+      "id": "fated_path",
+      "kr": "운명의 길",
+      "en": "Fated Path"
+    },
+    {
+      "id": "bloodline",
+      "kr": "혈통",
+      "en": "Bloodline"
+    },
+    {
+      "id": "house_of_fate",
+      "kr": "운명의 가문",
+      "en": "House of Fate"
+    },
+    {
+      "id": "four_horsemen",
+      "kr": "네 기수",
+      "en": "Four Horsemen"
+    },
+    {
+      "id": "perfect_sequence",
+      "kr": "완벽한 연속",
+      "en": "Perfect Sequence"
+    },
+    {
+      "id": "crown_of_ruin",
+      "kr": "파멸의 왕관",
+      "en": "Crown of Ruin"
+    },
+    {
+      "id": "bloodstone",
+      "kr": "혈석",
+      "en": "Bloodstone"
+    },
+    {
+      "id": "rune_of_power",
+      "kr": "힘의 룬",
+      "en": "Rune of Power"
+    },
+    {
+      "id": "war_chest",
+      "kr": "전쟁 상자",
+      "en": "War Chest"
+    },
+    {
+      "id": "spoils_of_war",
+      "kr": "전리품",
+      "en": "Spoils of War"
+    },
+    {
+      "id": "second_chance",
+      "kr": "두 번째 기회",
+      "en": "Second Chance"
+    },
+    {
+      "id": "extra_hand",
+      "kr": "추가 손패",
+      "en": "Extra Hand"
+    },
+    {
+      "id": "kings_dominion",
+      "kr": "왕의 지배",
+      "en": "King's Dominion"
+    },
+    {
+      "id": "fortunes_turn",
+      "kr": "운명의 전환",
+      "en": "Fortune's Turn"
+    },
+    {
+      "id": "black_market",
+      "kr": "암시장",
+      "en": "Black Market"
+    },
+    {
+      "id": "forbidden_knowledge",
+      "kr": "금단의 지식",
+      "en": "Forbidden Knowledge"
+    },
+    {
+      "id": "dealers_favor",
+      "kr": "딜러의 총애",
+      "en": "Dealer's Favor"
+    },
+    {
+      "id": "undying_seed",
+      "kr": "불멸의 씨앗",
+      "en": "Undying Seed"
+    },
+    {
+      "id": "dark_trade",
+      "kr": "암흑 거래",
+      "en": "Dark Trade"
+    },
+    {
+      "id": "seed_vessel",
+      "kr": "씨앗의 그릇",
+      "en": "Seed Vessel"
+    }
+  ]
+}

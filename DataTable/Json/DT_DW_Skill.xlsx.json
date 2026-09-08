@@ -1,0 +1,1282 @@
+{
+  "skill_main": [
+    {
+      "idx": "100001",
+      "unlock_idx": "0",
+      "grid_x": "0",
+      "grid_y": "0",
+      "name": "forbidden_archive",
+      "desc": "forbidden_library_unlock",
+      "icon": "Node_W_01",
+      "max_level": "1",
+      "skill_type": "None",
+      "skill_value": "0"
+    }
+  ],
+  "skill_hand": [
+    {
+      "idx": "200001",
+      "unlock_idx": "100001",
+      "grid_x": "-1",
+      "grid_y": "0",
+      "name": "lone_survivor",
+      "desc": "upgrade_hand_high_card",
+      "icon": "Node_Y_01",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreHighCard",
+      "skill_value": "1"
+    },
+    {
+      "idx": "200002",
+      "unlock_idx": "200001",
+      "grid_x": "-1",
+      "grid_y": "1",
+      "name": "twisted_pair",
+      "desc": "upgrade_hand_one_pair",
+      "icon": "Node_Y_02",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreOnePair",
+      "skill_value": "1.5"
+    },
+    {
+      "idx": "200003",
+      "unlock_idx": "200002",
+      "grid_x": "-1",
+      "grid_y": "2",
+      "name": "double_bind",
+      "desc": "upgrade_hand_two_pair",
+      "icon": "Node_Y_03",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreTwoPair",
+      "skill_value": "2"
+    },
+    {
+      "idx": "200004",
+      "unlock_idx": "200001",
+      "grid_x": "-2",
+      "grid_y": "0",
+      "name": "threefold_oath",
+      "desc": "upgrade_hand_three_of_a_kind",
+      "icon": "Node_Y_04",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreTriple",
+      "skill_value": "3"
+    },
+    {
+      "idx": "200005",
+      "unlock_idx": "200004",
+      "grid_x": "-2",
+      "grid_y": "1",
+      "name": "fated_path",
+      "desc": "upgrade_hand_straight",
+      "icon": "Node_Y_05",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreStraight",
+      "skill_value": "4"
+    },
+    {
+      "idx": "200006",
+      "unlock_idx": "200005",
+      "grid_x": "-2",
+      "grid_y": "2",
+      "name": "bloodline",
+      "desc": "upgrade_hand_flush",
+      "icon": "Node_Y_06",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreFlush",
+      "skill_value": "5"
+    },
+    {
+      "idx": "200007",
+      "unlock_idx": "200006",
+      "grid_x": "-2",
+      "grid_y": "3",
+      "name": "house_of_fate",
+      "desc": "upgrade_hand_full_house",
+      "icon": "Node_Y_07",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreFullHouse",
+      "skill_value": "6"
+    },
+    {
+      "idx": "200008",
+      "unlock_idx": "200004",
+      "grid_x": "-3",
+      "grid_y": "0",
+      "name": "four_horsemen",
+      "desc": "upgrade_hand_four_of_a_kind",
+      "icon": "Node_Y_08",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreFourCard",
+      "skill_value": "12"
+    },
+    {
+      "idx": "200009",
+      "unlock_idx": "200008",
+      "grid_x": "-3",
+      "grid_y": "1",
+      "name": "perfect_sequence",
+      "desc": "upgrade_hand_straight_flush",
+      "icon": "Node_Y_09",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreStraightFlush",
+      "skill_value": "30"
+    },
+    {
+      "idx": "200010",
+      "unlock_idx": "200009",
+      "grid_x": "-3",
+      "grid_y": "2",
+      "name": "crown_of_ruin",
+      "desc": "upgrade_hand_royal_flush",
+      "icon": "Node_Y_10",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "ScoreRoyalStraightFlush",
+      "skill_value": "50"
+    }
+  ],
+  "skill_game": [
+    {
+      "idx": "300001",
+      "unlock_idx": "100001",
+      "grid_x": "1",
+      "grid_y": "0",
+      "name": "bloodstone",
+      "desc": "upgrade_base_chip",
+      "icon": "Node_R_01",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "BaseChip",
+      "skill_value": "1"
+    },
+    {
+      "idx": "300002",
+      "unlock_idx": "300001",
+      "grid_x": "1",
+      "grid_y": "1",
+      "name": "rune_of_power",
+      "desc": "upgrade_base_multiplier",
+      "icon": "Node_R_02",
+      "unlock_level": "1",
+      "max_level": "5",
+      "skill_type": "BaseMult",
+      "skill_value": "1"
+    },
+    {
+      "idx": "300003",
+      "unlock_idx": "300001",
+      "grid_x": "2",
+      "grid_y": "0",
+      "name": "war_chest",
+      "desc": "upgrade_start_gold",
+      "icon": "Node_R_03",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "StartGold",
+      "skill_value": "1"
+    },
+    {
+      "idx": "300004",
+      "unlock_idx": "300003",
+      "grid_x": "2",
+      "grid_y": "1",
+      "name": "spoils_of_war",
+      "desc": "upgrade_round_end_gold",
+      "icon": "Node_R_04",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "RoundEndGold",
+      "skill_value": "1"
+    },
+    {
+      "idx": "300005",
+      "unlock_idx": "300003",
+      "grid_x": "3",
+      "grid_y": "0",
+      "name": "second_chance",
+      "desc": "upgrade_discard",
+      "icon": "Node_R_05",
+      "unlock_level": "1",
+      "max_level": "1",
+      "skill_type": "DiscardCount",
+      "skill_value": "1"
+    },
+    {
+      "idx": "300006",
+      "unlock_idx": "300005",
+      "grid_x": "3",
+      "grid_y": "1",
+      "name": "extra_hand",
+      "desc": "upgrade_hand_play",
+      "icon": "Node_R_06",
+      "unlock_level": "1",
+      "max_level": "1",
+      "skill_type": "HandPlayCount",
+      "skill_value": "1"
+    },
+    {
+      "idx": "300007",
+      "unlock_idx": "300006",
+      "grid_x": "3",
+      "grid_y": "2",
+      "name": "kings_dominion",
+      "desc": "upgrade_final_score",
+      "icon": "Node_R_07",
+      "unlock_level": "1",
+      "max_level": "1",
+      "skill_type": "FinalScore",
+      "skill_value": "2"
+    }
+  ],
+  "skill_shop": [
+    {
+      "idx": "400001",
+      "unlock_idx": "100001",
+      "grid_x": "0",
+      "grid_y": "-1",
+      "name": "fortunes_turn",
+      "desc": "upgrade_free_reroll",
+      "icon": "Node_B_01",
+      "unlock_level": "1",
+      "max_level": "5",
+      "skill_type": "FreeReroll",
+      "skill_value": "1"
+    },
+    {
+      "idx": "400002",
+      "unlock_idx": "400001",
+      "grid_x": "0",
+      "grid_y": "-2",
+      "name": "black_market",
+      "desc": "upgrade_joker_price",
+      "icon": "Node_B_02",
+      "unlock_level": "1",
+      "max_level": "3",
+      "skill_type": "JokerBuyPrice",
+      "skill_value": "-1"
+    },
+    {
+      "idx": "400003",
+      "unlock_idx": "400002",
+      "grid_x": "-1",
+      "grid_y": "-2",
+      "name": "forbidden_knowledge",
+      "desc": "upgrade_joker_levelup_cost",
+      "icon": "Node_B_03",
+      "unlock_level": "1",
+      "max_level": "10",
+      "skill_type": "JokerLevelUpCost",
+      "skill_value": "-1"
+    },
+    {
+      "idx": "400005",
+      "unlock_idx": "400002",
+      "grid_x": "0",
+      "grid_y": "-3",
+      "name": "undying_seed",
+      "desc": "upgrade_seed_duration",
+      "icon": "Node_B_05",
+      "unlock_level": "1",
+      "max_level": "1",
+      "skill_type": "SeedDuration",
+      "skill_value": "1"
+    },
+    {
+      "idx": "400006",
+      "unlock_idx": "400005",
+      "grid_x": "-1",
+      "grid_y": "-3",
+      "name": "dark_trade",
+      "desc": "upgrade_seed_price",
+      "icon": "Node_B_06",
+      "unlock_level": "1",
+      "max_level": "1",
+      "skill_type": "SeedBuyPrice",
+      "skill_value": "-1"
+    }
+  ],
+  "skill_main_level": [
+    {
+      "idx": "100001",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "1"
+    }
+  ],
+  "skill_hand_level": [
+    {
+      "idx": "200001",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200001",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200001",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200001",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200001",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200001",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200001",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200001",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200001",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200001",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200002",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200002",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200002",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200002",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200002",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200002",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200002",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200002",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200002",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200002",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200003",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200003",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200003",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200003",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200003",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200003",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200003",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200003",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200003",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200003",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200004",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200004",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200004",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200004",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200004",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200004",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200004",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200004",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200004",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200004",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200005",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200005",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200005",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200005",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200005",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200005",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200005",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200005",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200005",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200005",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200006",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200006",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200006",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200006",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200006",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200006",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200006",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200006",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200006",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200006",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200007",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200007",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200007",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200007",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200007",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200007",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200007",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200007",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200007",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200007",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200008",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200008",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200008",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200008",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200008",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200008",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200008",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200008",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200008",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200008",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200009",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200009",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200009",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200009",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200009",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200009",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200009",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200009",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200009",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200009",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "200010",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "200010",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "200010",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "200010",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "200010",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "200010",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "200010",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "200010",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "200010",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "200010",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    }
+  ],
+  "skill_game_level": [
+    {
+      "idx": "300001",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "300001",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "300001",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "300001",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "300001",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "300001",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "300001",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "300001",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "14"
+    },
+    {
+      "idx": "300001",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "16"
+    },
+    {
+      "idx": "300001",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "20"
+    },
+    {
+      "idx": "300002",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "300002",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "300002",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "20"
+    },
+    {
+      "idx": "300002",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "25"
+    },
+    {
+      "idx": "300002",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "30"
+    },
+    {
+      "idx": "300003",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "3"
+    },
+    {
+      "idx": "300003",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "4"
+    },
+    {
+      "idx": "300003",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "5"
+    },
+    {
+      "idx": "300003",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "6"
+    },
+    {
+      "idx": "300003",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "7"
+    },
+    {
+      "idx": "300003",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "8"
+    },
+    {
+      "idx": "300003",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "9"
+    },
+    {
+      "idx": "300003",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "300003",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "12"
+    },
+    {
+      "idx": "300003",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "300004",
+      "level": "1",
+      "cost_type": "Diamond",
+      "cost_value": "10"
+    },
+    {
+      "idx": "300004",
+      "level": "2",
+      "cost_type": "Diamond",
+      "cost_value": "15"
+    },
+    {
+      "idx": "300004",
+      "level": "3",
+      "cost_type": "Diamond",
+      "cost_value": "20"
+    },
+    {
+      "idx": "300004",
+      "level": "4",
+      "cost_type": "Diamond",
+      "cost_value": "25"
+    },
+    {
+      "idx": "300004",
+      "level": "5",
+      "cost_type": "Diamond",
+      "cost_value": "30"
+    },
+    {
+      "idx": "300004",
+      "level": "6",
+      "cost_type": "Diamond",
+      "cost_value": "35"
+    },
+    {
+      "idx": "300004",
+      "level": "7",
+      "cost_type": "Diamond",
+      "cost_value": "40"
+    },
+    {
+      "idx": "300004",
+      "level": "8",
+      "cost_type": "Diamond",
+      "cost_value": "45"
+    },
+    {
+      "idx": "300004",
+      "level": "9",
+      "cost_type": "Diamond",
+      "cost_value": "50"
+    },
+    {
+      "idx": "300004",
+      "level": "10",
+      "cost_type": "Diamond",
+      "cost_value": "60"
+    },
+    {
+      "idx": "300005",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "30"
+    },
+    {
+      "idx": "300006",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "50"
+    },
+    {
+      "idx": "300007",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "100"
+    }
+  ],
+  "skill_shop_level": [
+    {
+      "idx": "400001",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "1"
+    },
+    {
+      "idx": "400001",
+      "level": "2",
+      "cost_type": "Ruby",
+      "cost_value": "2"
+    },
+    {
+      "idx": "400001",
+      "level": "3",
+      "cost_type": "Ruby",
+      "cost_value": "3"
+    },
+    {
+      "idx": "400001",
+      "level": "4",
+      "cost_type": "Ruby",
+      "cost_value": "4"
+    },
+    {
+      "idx": "400001",
+      "level": "5",
+      "cost_type": "Ruby",
+      "cost_value": "5"
+    },
+    {
+      "idx": "400002",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "10"
+    },
+    {
+      "idx": "400002",
+      "level": "2",
+      "cost_type": "Ruby",
+      "cost_value": "20"
+    },
+    {
+      "idx": "400002",
+      "level": "3",
+      "cost_type": "Ruby",
+      "cost_value": "40"
+    },
+    {
+      "idx": "400003",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "1"
+    },
+    {
+      "idx": "400003",
+      "level": "2",
+      "cost_type": "Ruby",
+      "cost_value": "2"
+    },
+    {
+      "idx": "400003",
+      "level": "3",
+      "cost_type": "Ruby",
+      "cost_value": "3"
+    },
+    {
+      "idx": "400003",
+      "level": "4",
+      "cost_type": "Ruby",
+      "cost_value": "4"
+    },
+    {
+      "idx": "400003",
+      "level": "5",
+      "cost_type": "Ruby",
+      "cost_value": "5"
+    },
+    {
+      "idx": "400003",
+      "level": "6",
+      "cost_type": "Ruby",
+      "cost_value": "6"
+    },
+    {
+      "idx": "400003",
+      "level": "7",
+      "cost_type": "Ruby",
+      "cost_value": "7"
+    },
+    {
+      "idx": "400003",
+      "level": "8",
+      "cost_type": "Ruby",
+      "cost_value": "8"
+    },
+    {
+      "idx": "400003",
+      "level": "9",
+      "cost_type": "Ruby",
+      "cost_value": "9"
+    },
+    {
+      "idx": "400003",
+      "level": "10",
+      "cost_type": "Ruby",
+      "cost_value": "10"
+    },
+    {
+      "idx": "400004",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "50"
+    },
+    {
+      "idx": "400005",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "50"
+    },
+    {
+      "idx": "400006",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "50"
+    },
+    {
+      "idx": "400007",
+      "level": "1",
+      "cost_type": "Ruby",
+      "cost_value": "100"
+    }
+  ]
+}

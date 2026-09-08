@@ -1,0 +1,174 @@
+{
+  "attendance": [
+    {
+      "day": "1",
+      "icon": "Icon_Common_Dia_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "1"
+    },
+    {
+      "day": "2",
+      "icon": "icon_player_002",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "2"
+    },
+    {
+      "day": "3",
+      "icon": "icon_player_004",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "3"
+    },
+    {
+      "day": "4",
+      "icon": "Icon_Common_Gem_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "4"
+    },
+    {
+      "day": "5",
+      "icon": "Icon_Common_Dia_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "5"
+    },
+    {
+      "day": "6",
+      "icon": "Icon_Common_Gem_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "6"
+    },
+    {
+      "day": "7",
+      "icon": "Icon_Common_Dia_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "7"
+    },
+    {
+      "day": "8",
+      "icon": "Icon_Common_Gem_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "8"
+    },
+    {
+      "day": "9",
+      "icon": "Icon_Common_Dia_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "9"
+    },
+    {
+      "day": "10",
+      "icon": "Icon_Common_Gem_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "10"
+    },
+    {
+      "day": "11",
+      "icon": "Icon_Common_Dia_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "11"
+    },
+    {
+      "day": "12",
+      "icon": "Icon_Common_Gem_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "12"
+    },
+    {
+      "day": "13",
+      "icon": "Icon_Common_Dia_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "13"
+    },
+    {
+      "day": "14",
+      "icon": "Icon_Common_Gem_S",
+      "slot": "Image_Common_CardBack",
+      "reward_group": "14"
+    }
+  ],
+  "reward": [
+    {
+      "idx": "1",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "6",
+      "character_class": "None"
+    },
+    {
+      "idx": "2",
+      "reward_type": "REWARD_CHARACTER",
+      "reward_count": "0",
+      "character_class": "Barbarian"
+    },
+    {
+      "idx": "3",
+      "reward_type": "REWARD_CHARACTER",
+      "reward_count": "0",
+      "character_class": "GrandMaster"
+    },
+    {
+      "idx": "4",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "3",
+      "character_class": "None"
+    },
+    {
+      "idx": "5",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "10",
+      "character_class": "None"
+    },
+    {
+      "idx": "6",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "7",
+      "character_class": "None"
+    },
+    {
+      "idx": "7",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "15",
+      "character_class": "None"
+    },
+    {
+      "idx": "8",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "9",
+      "character_class": "None"
+    },
+    {
+      "idx": "9",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "20",
+      "character_class": "None"
+    },
+    {
+      "idx": "10",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "12",
+      "character_class": "None"
+    },
+    {
+      "idx": "11",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "25",
+      "character_class": "None"
+    },
+    {
+      "idx": "12",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "15",
+      "character_class": "None"
+    },
+    {
+      "idx": "13",
+      "reward_type": "REWARD_DIAMOND",
+      "reward_count": "40",
+      "character_class": "None"
+    },
+    {
+      "idx": "14",
+      "reward_type": "REWARD_RUBY",
+      "reward_count": "20",
+      "character_class": "None"
+    }
+  ]
+}
