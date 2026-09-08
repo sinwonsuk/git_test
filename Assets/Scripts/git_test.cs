@@ -8,10 +8,10 @@ public class git_test : MonoBehaviour
         string test = "test";
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         
     }
 }
-// teammate change for lock-repro
+// Å×½ºÆ® 
