@@ -5,7 +5,7 @@ public class git_test : MonoBehaviour
 
     void Start()
     {
-        int a = 0;
+        string test = "test";
     }
 
     // Update is called once per frame
