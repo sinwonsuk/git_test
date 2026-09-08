@@ -5,8 +5,7 @@ public class git_test : MonoBehaviour
 
     void Start()
     {
-        string test = "test";
-        string test2 = "test32333";
+        string test = "test111";
     }
 
 
@@ -16,4 +15,3 @@ public class git_test : MonoBehaviour
     }
 }
 
-//dwadadawd
