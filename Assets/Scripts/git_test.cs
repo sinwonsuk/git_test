@@ -14,4 +14,4 @@ public class git_test : MonoBehaviour
         
     }
 }
-// 테스트 wdwdwdw
+// 테스트 ㅇㅇ
