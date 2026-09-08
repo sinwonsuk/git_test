@@ -15,3 +15,4 @@ public class git_test : MonoBehaviour
     }
 }
 // Å×½ºÆ® ¤·¤·
+// teammate: artifact table updated
