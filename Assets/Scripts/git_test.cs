@@ -6,6 +6,7 @@ public class git_test : MonoBehaviour
     void Start()
     {
         string test = "test";
+        string test2 = "test2";
     }
 
 
@@ -14,6 +15,4 @@ public class git_test : MonoBehaviour
         
     }
 }
-// Å×½ºÆ® ¤·¤·
-// teammate: artifact table updated
-// teammate: 2nd round - skill table
+
