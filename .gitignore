@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Excel 임시 락 파일 (엑셀로 xlsx를 열면 생김)
+~$*
